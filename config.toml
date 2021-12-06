@@ -1,0 +1,13 @@
+title = 'Monero Guides'
+theme = "accessible-minimalism"
+baseURL = "https://eager-tereshkova-c5ec38.netlify.app/"
+languageCode = "en-us"
+enableEmoji = 'true'
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+
+[author]
+  name = "Monero Guides"
+
+[params]
+    custom_css = ["css/reset.css", "css/main.css", "css/simple-grid.css"]

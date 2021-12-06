@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<main class="list-main">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+
+    {{ range .Pages.ByPublishDate.Reverse }}
+
+    <div class="row">
+      <div class="list-item">
+        <h3>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h3>
+        {{ if gt (len .Description) 0 }}
+        <p>
+          {{ .Description | safeHTML }}
+        </p>
+      </div>
+    </div>
+    {{ end }} {{ end }}
+  </div>
+</main>
+
+{{ end }}
