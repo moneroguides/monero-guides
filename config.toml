@@ -1,6 +1,6 @@
 title = 'Monero Guides'
 theme = "accessible-minimalism"
-baseURL = "https://romantic-edison-476a0e.netlify.app"
+baseURL = "https://moneroguides.org"
 languageCode = "en-us"
 enableEmoji = 'true'
 disableHugoGeneratorInject = true
