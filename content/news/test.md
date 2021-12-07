@@ -10,7 +10,7 @@ layout: "article"
 # P2Pool-mini Side Chain
 ## UPDATE
 
-If your hash rate is bellow 50Kh/s please consider the following link; https://www.xmrvsbeast.com/p2pool/sid....
+If your hash rate is bellow 50Kh/s please consider the following link; https://xmrvsbeast.com/p2pool/sidechains.html
 
 Follow the instructions on this this page for the mini pool. 
 
