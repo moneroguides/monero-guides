@@ -9,6 +9,7 @@ We make guides for setting up all things Monero related. You can check out our Y
 ###Contact
 /
 /
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
@@ -33,6 +34,7 @@ xmaJ8vUJ
 -----END PGP SIGNATURE-----
 /
 /
+
 ###[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
 
 
