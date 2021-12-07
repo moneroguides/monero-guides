@@ -6,9 +6,9 @@ description: "Learn how to set up p2pool on Windows"
 type: "article"
 layout: "article"
 ---
-
-{{< youtube yfbvTksF9ic >}}   
-   
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+<iframe id='ivplayer' width='640' height='360' src='https://invidio.xamh.de/embed/yfbvTksF9ic' style='border:none;'></iframe>  
+</div>  
    
 ### Prerequisites:
 
