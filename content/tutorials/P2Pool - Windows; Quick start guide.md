@@ -12,8 +12,8 @@ layout: "article"
    
 ### Prerequisites:
 
-- Kleopatra (GPG4Win) - https://www.gpg4win.org/download.html
-- New Monero wallet address (primary)
+* Kleopatra (GPG4Win) - https://www.gpg4win.org/download.html
+* New Monero wallet address (primary)
 
 .....................................................................
 
@@ -55,13 +55,13 @@ Now to check that this is in fact the file we to be installing and not something
 
 ............................................................................
 
-INSTALLING P2POOL
+### INSTALLING P2POOL
 
 Alright, now that we've done that it's time to install P2Pool. Right-click the install file and choose **Run as administrator**. Click **next** until you get to the part where you choose the install location. Install it to the same folder we have been working in. You'll now need a new Monero wallet address where you would like your mined Monero to go. After the setup as finished you'll see a new folder here in our `monero-mining` folder, you'll also see a shortcut has appeared on your desktop. This is how we will start the P2Pool software.
 
 .....................................................................
 
-SYNCHING THE BLOCKCHAIN (FROM SCRATCH)
+### SYNCHING THE BLOCKCHAIN (FROM SCRATCH)
 
 If you've already downloaded Monero block-chain either because of a local node or wallet, go ahead and skip to the next section. For everyone else, follow this section carefully and skip over the next section. 
 
@@ -72,7 +72,7 @@ If you're happy to procede then you should run P2Pool by double-clicking the ico
 
 .....................................................................
 
-IMPORTING A PREEXISTING BLOCKCHAIN
+### IMPORTING A PREEXISTING BLOCKCHAIN
 
 For those of you that already have the monero blockchain downloaded to you computer you will have two options. The first option would be to copy or move your files across to the p2pool/lmdb directory. You'll be able to find your preexisting lmdb folder in C:\ProgramData\bitmonero. Copy or move the lmdb folder to the root of our current p2pool folder.
 
@@ -84,7 +84,7 @@ Now when we use the icon on the desktop to run p2pool, it will use the preexisti
 
 .....................................................................
 
-DOWNLOADING AND VERIFYING XMRIG
+### DOWNLOADING AND VERIFYING XMRIG
 
 It's now time to install XMrig. If you already have this installed then feel free to skip this section.
 
@@ -108,7 +108,7 @@ You'll find a timestamp in the description so you can easily return to this poin
 
 .....................................................................
 
-XMRIG BENCHMARK AND CONFIGURATION
+### XMRIG BENCHMARK AND CONFIGURATION
 
 Welcome back. To continue getting XMRig set up, head into the extracted folder.
 
@@ -120,7 +120,7 @@ In the user section we curently have "x+600000". We should replace that number w
 
 .......................................................................
 
-TIME TO MINE 
+### TIME TO MINE 
 
 Alright, it's finally time to get our mining underway. So let's open p2pool by clicking on the desktop icon. We need to wait for it to finish synchronising before we open XMRig. You will know it's synched once you start receiving blocktemplates and see `depth = 0`. 
 
@@ -130,7 +130,7 @@ https://xmrig.com/docs/miner/hugepages
 
 .....................................................................
 
-P2P INTERFACE
+### P2P INTERFACE
 
 To check that all you've done is actually paying off, there's a few things you can do. Firstly, xmrig should be recieving jobs from your local ip address. 
 
@@ -146,7 +146,7 @@ Other commands can be found by typing `help`. For example you can set `loglevel`
 
 .....................................................................
 
-PORT FORWRADING
+### PORT FORWRADING
 
 There are two big incentives for miners to join p2pool. First is the low payout threshold and 0% fees. The other is the ability to sign up to the xmrvsbeast raffle. 
 
@@ -167,7 +167,7 @@ It is also reccomended to open ports 18080 (Monero daemon) and 37889 (P2Pool Pee
 
 .....................................................................
 
-SIGNING UP TO THE RAFFLE
+### SIGNING UP TO THE RAFFLE
 
 Once you have the correct port forwarded you'll need to head on over to the xmrvsbeast website linked in the description.
 
@@ -190,7 +190,7 @@ https://www.reddit.com/r/xmrvsbeast
 
 .....................................................................
 
-MONERO.OBSERVER
+### MONERO.OBSERVER
 
 You can easily check your progess remotely by visiting https://p2pool.observer/
 
@@ -204,7 +204,9 @@ Below this you will see infomation about each payout and the shares which enable
 
 .....................................................................
 
-This pool is only possible because of the hard work of contributers. the main repository for p2pool can be found in the description below.
+### OUTRO
+
+This pool is only possible because of the hard work of contributers. The main repository for p2pool can be found in the description below.
 https://github.com/SChernykh/p2pool
 
 If you're interested to know more about it's featuresa nd how it works, including how to set things up on a different OS, this is the place to come. And at the bottom of this page you will find a donation address. The people who work on these things do it mostly for love rather than money, so every donation goes to keeping them motivated.
