@@ -1,14 +1,15 @@
 ---
-title: "Setting up P2Pool on Windows"
+title: "P2Pool - Windows; Quick start guide"
 date: 2021-11-17T10:21:07Z
-image: images/test_scrn2.png
+image: images/P2Pool - Windows; Quick start guide.png
 description: "Learn how to set up p2pool on Windows"
 type: "article"
 layout: "article"
 ---
 
 {{< youtube yfbvTksF9ic >}}
-
+/
+/
 
 ### Prerequisites:
 
