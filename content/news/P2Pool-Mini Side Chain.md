@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 
-# P2Pool-mini Side Chain
+# P2Pool-Mini Side Chain
 ## UPDATE
 \
 \
