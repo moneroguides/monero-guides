@@ -33,9 +33,9 @@ xmaJ8vUJ
 -----END PGP SIGNATURE-----`
 \
 \
-[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
+[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)\
 \
-\
+
 
 ---
 
