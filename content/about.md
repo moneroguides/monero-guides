@@ -4,9 +4,12 @@ type: "about"
 layout: "about"
 ---
 
+
 We make guides for setting up all things Monero related. You can check out our Youtube channel [here](https://www.youtube.com/channel/UCWeGibnI0h07pIPiX945DBg).
 
-### Contact:
+
+
+#### Contact:
 
 
 
@@ -35,7 +38,7 @@ xmaJ8vUJ
 -----END PGP SIGNATURE-----
 ```
 
-## [Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
+#### [Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
 
 
 
