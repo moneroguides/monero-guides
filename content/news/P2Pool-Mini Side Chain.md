@@ -17,7 +17,7 @@ Follow the instructions on this this page for the mini pool.
 
 Make sure you replace the existing peers file. Then edit your start.ps1 file. 
 
-Edit line 90  so that it now reads `Start-Process .\p2pool.exe -ArgumentList "--wallet $Wallet","--config mini_config.json","--p2p 0.0.0.0:3788" -Wait -NoNewWindow`
+Edit line 90  so that it now reads ```Start-Process .\p2pool.exe -ArgumentList "--wallet $Wallet","--config mini_config.json","--p2p 0.0.0.0:3788" -Wait -NoNewWindow```
 \
 \
 ![startps1](/images/startps1.png)
