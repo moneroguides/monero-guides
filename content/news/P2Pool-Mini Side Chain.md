@@ -8,7 +8,7 @@ layout: "article"
 ---
 
 # P2Pool-Mini Side Chain
-## UPDATE
+#### UPDATE for windows users
 \
 \
 If your hash rate is bellow 50Kh/s please consider the following link; https://xmrvsbeast.com/p2pool/sidechains.html
