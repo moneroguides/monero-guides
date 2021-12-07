@@ -7,9 +7,8 @@ type: "article"
 layout: "article"
 ---
 
-{{< youtube yfbvTksF9ic >}}
-/
-/
+{{< youtube yfbvTksF9ic >}}/
+
 
 ### Prerequisites:
 
