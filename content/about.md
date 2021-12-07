@@ -9,10 +9,8 @@ We make guides for setting up all things Monero related. You can check out our Y
 
 
 
-#### Contact:
-
-
-
+#### Contact:    
+    
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
