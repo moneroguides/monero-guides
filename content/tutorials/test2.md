@@ -7,6 +7,9 @@ type: "article"
 layout: "article"
 ---
 
+{{ youtube yfbvTksF9ic >}}
+
+
 ### Prerequisites:
 
 - Kleopatra (GPG4Win) - https://www.gpg4win.org/download.html
