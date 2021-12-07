@@ -6,10 +6,12 @@ layout: "about"
 
 We make guides for setting up all things Monero related. You can check out our Youtube channel [here](https://www.youtube.com/channel/UCWeGibnI0h07pIPiX945DBg).
 
-###Contact
-\
-\
-<code>-----BEGIN PGP SIGNED MESSAGE-----
+### Contact:
+
+
+
+```
+-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
 Key Fingerprint: 7EFA195B105D4B023FF46F3050699FA4403A163D
@@ -30,10 +32,10 @@ k85+b6+J8Gg3pEEjPaOnWqkJ/JrMubzPAhd4gUZHpBRG+IpnNWHUuv4w5tXOSJI3
 Djl8jBZnv/fLwVUNuXxV74g6C8bezfEFu1VdpeJXg0mj0i8Vw38OsVXNKE36BeOQ
 xmaJ8vUJ
 =hADR
------END PGP SIGNATURE-----</code>
-\
-\
-[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
+-----END PGP SIGNATURE-----
+```
+
+## [Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
 
 
 
