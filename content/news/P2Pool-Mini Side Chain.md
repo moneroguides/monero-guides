@@ -1,7 +1,7 @@
 ---
 title: "P2Pool-Mini Side Chain"
 date: 2021-11-17T10:21:07Z
-description: "New P2Pool side chain for low has rate miners"
+description: "New P2Pool side chain for low hash rate miners"
 image: /images/startps1.png
 type: "article"
 layout: "article"
