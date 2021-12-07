@@ -35,7 +35,7 @@ xmaJ8vUJ
 /
 /
 
-###[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
+##[Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
 
 
 
