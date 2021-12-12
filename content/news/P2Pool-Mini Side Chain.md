@@ -13,7 +13,7 @@ layout: "article"
 \
 If your hash rate is bellow 50Kh/s please consider the following link; https://xmrvsbeast.com/p2pool/sidechains.html
 
-Follow the instructions on this this page for the mini pool. 
+Follow the instructions on that page for the mini pool. 
 
 Make sure you replace the existing peers file. Then edit your start.ps1 file. 
 
