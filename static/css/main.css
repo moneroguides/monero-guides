@@ -1,10 +1,13 @@
 body {
   font-family: "Nobile";
   --orangeBright: #f96613;
+  --orangePale0: #fffbf9;
   --orangePale1: #ffba91;
   --orangePale2: #f5a373;
   --blueDark: #2da8a8;
   --blueLight: #73f5f4;
+  --blueLightest: #f0ffff;
+  --shadow: #ffeee4;
 }
 
 a {
@@ -21,17 +24,19 @@ a:hover {
 header {
   position: fixed;
   width: 100%;
-  background: white;
+  background: var(--orangePale0);
   padding: 1rem 1rem 0.5rem 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 0 10px #ebebeb;
+  box-shadow: 0 0 10px var(--shadow);
   z-index: 10;
 }
 
 header .header-logo {
   max-width: 65px;
+  border-radius: 50%;
+  box-shadow: 0 0 10px var(--shadow);
 }
 
 header .hamburger-icon {
@@ -44,6 +49,10 @@ header .header-back-arrow {
 
 header .desktop-menu {
   display: none;
+}
+
+header a {
+  color: var(--orangeBright) !important;
 }
 
 @media (min-width: 700px) {
@@ -73,7 +82,7 @@ header .desktop-menu {
 /* MOBILE MENU */
 .mobile-menu {
   padding-top: 6.5rem;
-  box-shadow: 0 0 0.625rem #ebebeb;
+  box-shadow: 0 0 0.625rem var(--shadow);
   z-index: 1;
 }
 
@@ -139,26 +148,30 @@ main pre {
 }
 
 .index-card {
-  box-shadow: 0 0 10px #ebebeb;
+  box-shadow: 0 0 10px var(--shadow);
+  background: var(--orangePale0);
   border-radius: 0.3125rem;
   text-decoration: none;
-  min-height: 300px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
 }
 
 .index-card:hover {
-  transform: scale(1.01);
-  background: #fdf7f4;
+  transform: scale(1.02);
   transition: 200ms ease-in-out;
 }
 
 .index-card .card-body {
   padding: 1rem;
   padding-top: 0.5rem;
+  height: 100%;
 }
 
 .index-card img {
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
+  border-bottom: 3px solid var(--blueDark);
   height: 150px;
   width: 100%;
   object-fit: cover;
@@ -175,13 +188,16 @@ main pre {
 /* ARTICLE LISTS */
 
 .list-item {
-  box-shadow: 0 0 10px #ebebeb;
+  box-shadow: 0 0 10px var(--shadow);
   padding: 1rem;
+  background: var(--orangePale0);
 }
 
 /* FOOTER */
 
 footer {
-  box-shadow: 0 0 10px #ebebeb;
+  box-shadow: 0 0 10px var(--shadow);
   padding: 2rem;
+  background: var(--orangePale0);
+  color:var(--orangeBright);
 }
