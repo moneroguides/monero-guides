@@ -13,6 +13,9 @@ layout: "article"
 
 https://moneroguides.org/news/p2pool-mini-side-chain/
    
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 ### Prerequisites:
 
 * Kleopatra (GPG4Win) - https://www.gpg4win.org/download.html
@@ -97,8 +100,8 @@ https://github.com/xmrig/xmrig/releases
 
 we're going to verify the download the same way as before so I'll move through this process a bit more quickly this time. The public key for xmrig can be found in a different location this time, check the video description for the link. 
 
-- https://github.com/xmrig/xmrig/blob/master/doc/gpg_keys/xmrig.asc
-- https://xmrig.com/docs/gpgpg-key 
+- - https://github.com/xmrig/xmrig/blob/master/doc/gpg_keys/xmrig.asc
+- - https://xmrig.com/docs/gpgpg-key 
 (DON'T FORGET SUMS GET-FILEHASH)
 
 Once again we're going to copy the key into a text file. We can use the same `key.txt` file from earlier. Now that we've got our files and the key we're going to open Kleopatra once again. First import the `key.txt` file. No need to countersign. Next choose **decrypt/verify** to verify the shasum files. Finally we need to go back into our `monero-mining` folder and get the file hash for the XMRig zip that we just downloaded. Open powershell and run `Get-Filehash` with the name of the zip file we just downloaded. Open the sums file and compare the two file hashes.
@@ -216,3 +219,20 @@ If you're interested to know more about it's featuresa nd how it works, includin
 
 Well, that's all for this video. Thanks so much for watching and happy mining.
 
+-----BEGIN PGP SIGNATURE-----
+
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZefcbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqA9cP/1L5tKT4F06QuHn0F0fR
+JVt2Fwn3aWc67VOB1vQldfwzl9h315q5WEL8XWzvY2r5StaeEJ+tKcipr3PhKIYq
+cwoWKjeavvfenuNpPzafhvSm6StudRG9sLtI+iaVvT+BzvxmoFqynBpj8uDMUR5j
+SUpcNYmJO9u08lGvLNqBawSbl8f0VQK60LG0vS89sEfqNidtOwrZtzzMkVf+eXN8
+G6+BQhze/emw4DmI7vkRBodu+oRaKoQwFrwEegYbdJhPRplU47E8YuVgx1EWnb9/
+d/wNPSk7ia+rnZ0b+m1TypklOZ+eNzME3D5typMRVtUST5foy3igs5irLBVC9yam
+NiHLnO0f5YE07DWaiTSoVMVg904ODiQbyn+7tIE0c+jNRIoK2LtekE+jhV6ghsKs
+QY+2R2P7/GO6uYpvwwDicSvByOKWwzQnjEjhmRXMRK0ZGlohMHDWfW2ycduUml7h
+xI8aNrGfBh87e73RpUKTei9B8MC1f6/oa9shtAwaAFcN05L/LGqoHDESxKNwnMmt
+jfpfnPcM9a1/Pwr/04SX9Q7XOPpnPnTafm7aO8HoVWr+ntmW3EMZ7bWdLAIq9zo5
+JbYnU8Gs3YC7lQTdqrJhjY/8q6UTVxUHkcSuUJuaTNlC0SajHssh7TwU/q9gx7op
+gdtvVnhK8NSNbYbSNGG/OcE4
+=9Ir7
+-----END PGP SIGNATURE-----
