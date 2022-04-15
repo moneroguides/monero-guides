@@ -9,12 +9,14 @@ layout: "article"
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe src="https://invidio.xamh.de/embed/yfbvTksF9ic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Windows; Quick start guide"></iframe></div>{{< /rawhtml >}}
 
+[Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x01-importing-public-keys-and-verifying-hashes/main/script.md)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 # Getting to Grips with Monero - Importing Public Keys & Verifying Hashes
 
-## PREREQUISITES
+## Prerequisites:
 
 * gpg2 (Linux)
 * Kleopatra (Windows) - [GPG4WIN](https://www.gpg4win.org)
@@ -164,20 +166,22 @@ To close out this tutorial we'll leave you with this piece of advice: PGP relies
 The instructions in this video will be relevant to a lot of our other videos so please make yourself familiar with GPG.
 
 Anyway, that's it for this installment, may your newfound GPG powers bring you peace and privacy!
+
+~moneroguides
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZdJUbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqSoIP/1n4dJ4+HJrDAW3k3RX6
-zrVb8zCHJeUdooYti4/fvdQrddsBi92oWvcp4STVU9d7L0kdz+bsbmIfyAsUkWEe
-Q3iFxd8qqee/Cu4xmx9HCgAYYnqj5SazWUIR1VzXC8Om5ccDs5tpF21l0DMFQXar
-d3iWKDKqGGYbRhWfFxR69d7ltmSM/9nqIpQI8P19JZWVKxXNqVG1bqzSyHL3WaZ5
-lAqbPo1TLGuFIazjgYeh4ErzazXgBPamNWHAqsOZzlzpCwJxzkxP8+x7GRCsCQ1j
-nHjizW419hZZob2yHcTcpClM9cqxVMAibM4Wcqsxj+EGpsiYpI7673OCC/ANg1a9
-tEkP2r1/gzAtiT5nBqlFHBpJuq5lShh0rg5xz8RiBlMwh6QwUFuNO1PKCfqTOcTn
-ytHH44+cMakucamOA3d90HRboqvp8xQyvFBYRMP8T3EiQFbwuNKGN+59KJpmbGJ8
-N7cWgpuSU2UxszF/OQ5B0h+iRz8ZdO54iUtSv7+3ODlKzJLirqUpi/ycNAR4giYR
-F6mIgyL76ge8AUgZJh9OdLTt6i732RI+pxQUXp2GJH1+9ZKh3rovewNE++FoNwdr
-igVqDrjfRe7Qb6UHOPihJ/Uey3MoNoXaAFH9My73h7maCPAA1/+E9L5cxkJxLth8
-/vbBxAN5N3dS4Vz+gwxmuR8l
-=D27h
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9R0bHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8Mndfebq/QEP/ih49btYMxMuPidACz1X
+qVYFjia0Bd3BFry89SFLy4FhNH78PKem46NBoU/9yW5lb7HF6SAkjxrXNpT5uAZO
+cdR3iwZ1J51FwXb2Hs74u6PrUqIhK1SteHeH5lSJQTSElZ1ZyqkLPWzG6H3Fs+YY
+PzRIyVBhXT9fbufc2xClqAHrsCn9D9EpBzg9UCJjJhrvZXlT8xx++MPLGdFdpS/6
+11vCOO0DW0P6EdYVFU3ND1O2MjULBHgLqBgLH3/C8fgsUkhA4C+PIDPPO6+e+wbe
+Y6qaiWYSC9gcL9Wk+CPx6xjs6UbeXRsC32xbWR48lM2jsdGzsDN9tcHCCKisqOv1
+w8i+7xptksXGJy5TTwwZJ1yu7jkmZaawn0EN9YRgFWlEithzAgBC7i+1eZqqETcP
+Nk+LApcTXZvm4SLz2rXYdEhv4YX7Ndi3y6rvsoo5JFQQ/bDi/icbIRPH1z6BQ+IF
+J2+sDzFttbqzVWXGtDWCiGBrWX4ipUwc/eESanyUxYCypS2Vl2168HgtqPzp6SRe
+omqX68fiUtl4erodPOaTwouXNxqRsvT69ybBbRIAp2fPoHIr39WkIJJfPnC0xOeY
+ul+Ei2XEJgEDU3stplbJf0mVL9irpABcH0kzhk1moWGa66oIYlucb9GgPmPOUF4k
+8ZGlZXK1fA2TwxTJsBj+KqUu
+=qQkb
 -----END PGP SIGNATURE-----
