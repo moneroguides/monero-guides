@@ -9,12 +9,14 @@ layout: "article"
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe src="https://invidio.xamh.de/embed/yfbvTksF9ic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Windows; Quick start guide"></iframe></div>{{< /rawhtml >}}
 
+[Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x02-setting-up-your-own-node/main/script.md)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 # Getting to Grips with Monero - Setting up your own Node 
 
-## PREREQUISITES
+## Prerequisites:
 
 * GPG (Linux)
 * Kleopatra / gpg4win (Windows)
@@ -295,20 +297,22 @@ If you have any comments or questions, feel free to leave them below, but please
 That's it for this video, if you're interested in seeing how you can put your node to use, you can check out the other videos in this series.
 
 Thanks for watching and bye for now.
+
+~moneroguides
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZd2wbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqlPsP/3S4Re6F6YMP2ig4nOyf
-mZeuqpaHoke4uMItRfhScaFB1gd1OrL3CDdrmYCjWpEAUIG4uQ9jnlKgZwZHwLUR
-jRzY69XF25W3JOeBSj3GryNzB3gKJuSbSMCpPedDVPWL9yn9wMT51gUN/ZRsSv7v
-m4iwaEiThkD2a2b4Y9RfSdMp7SETngh7YzdRiq33Doaj/4BiEVokWZ3/uSRBN2zJ
-Qi4pNFwpWWPiUAteT5pESOIhNkUT6B4LWG9iIIK4zOMhE3RJjUKEJlvxo3lwNy4Z
-gxxAzXdh71glEYvQN8MGieOkyWQdhq38Fr39T6yotJpFyu0JSWfDuW13aADGCs/j
-sUW2FH8j4n/8QDTlpsSGUcxDK7PlLgOVgUqAfxXD12B9DSnn/ZCG82u05HZQecM5
-2UBy0BEMivsO5i4pxNBTo8g6YdIfLrDLjrF+5d+fa/OyNA+uke5b03Bysl3Y0WF9
-BWVKRV6RtxKfKyeayb++WWTzwQ8SMY9xK8HsRMnVb+VpR7/5dwFG6flBKO+0vpmD
-jUxSCYsvfzDwnOy/SwCYwb40qUNHCRVnxHx2uTz2sPdIEcFI/LdQirvJ7NhmTqeZ
-BDGrqnDyENe2LetSjekzWFPS6XKevvLpnQpo95aPcanf7UqIOlAV/nU617KwYTmf
-zqQ2wNw+oK516U9IJ6zNU41s
-=LxiQ
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9SEbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqjFEP/1MOgfHICJ5uX2PHN5t8
+S2+z6cmuEki8dS/6pjTqj1qo3IZJ4T27eg8hYPXdQa47r5iLKTkRcqksW7DjHK11
+YOFuKrZw2YSfKfnOIk7tozThjFXsl8MeciqF36R4NHe0sf6gzIWp1S/kdfrr1GWv
+adc24fLrxX/GloawSA0K55r39yqrU2a7YMi0X4cajabwSEDZPcin0XXGIYO4nrJq
+WIcIsaYDMIdpUwVGFAmP9sddzSWNYRG1ZP9z1jAU6o6OvkroPEwPdzMpoMFqE4jB
+oohvrUoK9yUvpo4B6+ZN/CIhNNfoXtaOCnNZfXhiK8VDI4MVbBRFTPfztiC7mYYo
+96K9762VNwAPc21y1Q5GQkm4WyaAXQqeYBygrwEagEAclBGyBf3AMRjtjvyPQDkb
+veBviO0ANGp14bSkSoIm+Zof0322CtojY1ha2JOrGydESk0ikP7D8FKvfm5Yfpyx
+aBHySXnQrFOdyp9SvtAQYGu3Qlw7xvBHe8jlzX+6K5mvFuyvHZ6OLUf0QQs8v2pl
+gu7U+dzIvooAql5c9CV7ZHFbsQmgQPOknRl+ZqDYt6YydcgmfFcQrWVPpsrQMtzM
+ozpLX8G+A/lPNGvTc8/ua2EjZC4aRHflxlfja2/EJXT+m7EunXULrww2IcsRuAOq
+OpFb6YAhKkEDw6/xbYqTlAJ+
+=L72P
 -----END PGP SIGNATURE-----
