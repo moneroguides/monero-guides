@@ -161,7 +161,6 @@ Open the Windows start menu and begin typing the word "Firewall". It should be t
 
 It is also reccomended to open ports 18080 (Monero daemon) and 37889 (P2Pool Peer Network) for better connectivity with the rest of the network. Although this is not mandatory.
 
-.....................................................................
 
 ### SIGNING UP TO THE RAFFLE
 
@@ -211,18 +210,18 @@ Well, that's all for this video. Thanks so much for watching and happy mining.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ8s4bHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqFccQAK1o9xxpKvNowdiO9VID
-w+ffhAVD62X7uF+6YVJI1MtrgsiQfpZ+a3OsZEzrjdrMgtcC8V4//+uWNRQNrROe
-D01ONGQQfRpXtbWZ1xVPwc7hNT9cwsdtrhZBzIDwPUXmQaH6zW7ZMCI2s7fJkqn6
-VkJvG2TAps7TKRbmUd6BXP1Qcn7Je3X6yPhuNDzXgK46GbsCUiHFqbwjFpnWtCf9
-niYxfM7QUz81iwqyboalnpvNoEmIe0FiUDG0tZ3SogbUSHWcZ1ZV3heuXCi0lDOz
-juTQimxf/xBhM3i9ud3beztIjbskyUNbJG8uNB6z47MkTH5KBqs80tF0CjzkxbC/
-6Bj9/0NAzA8nlLjCSfAJ2frqKtZP1NpC8Ox8WgDm2Go5JSIQdzpihvWlJCAv3kXz
-dwjPuui8lCUNNInSoKsxa912UviEVLDbh+g4qeb9Y96puBaX2diQiaw1meyhTx28
-EAYt6ojm1sS2gIFJKY6WAqL7BHq2+7RiDI9qqY6xgr0oAhRwI6lIiCjhcvVoZBva
-yRK2f/wjSNdnQ5T2StwbbbzzBQkd2MoAb+Wz5d/aVt7q7bCzZFLqoIQHz7zxwZ0A
-fzEvt09S+VelonFFMKiIQUR0MoV4eTzRVJDjp2TK2T6hTmcaRjgumf0pxViV87E7
-nZ1AjXUqRQkaqo4Q1G/obKbU
-=T8xH
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ+GobHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqlTIP/i1PvhqjrA+OiXyYWKRp
+WU4zt4aMzPhQeRJOwQITcnfBSq5cca7X+ouZcFIj4oJonZv7uAls/CEiFHJ33S8u
+99gqmk23XQVOFbw1u2OyuGEUxvAgTsUHmH0KV7PuWQRFiQTwVHdUibdZtfHABqOH
+O5Xtgeuk3eLhp94kBzTiGmml3Fbvm7VilZw1AEZrR9bYlcR/hmOQM6hYfndf+72m
+CnvwWQynQHoW+Iy4AmeaL+F2J6QJyVDH9q4vPN553gGd15XCoYQi+wm3v14smUOm
+38sUbTyeXaGDXLwbl0po54vUG3I7xHxyMfjwNrkaiZCMiTunS9zsCWeYWXLV07Hy
+yHrQJoC8ySbhbP8AA1NCSSamzwQrhi1ezkttrr0JwXdFOF8zGQB354alwx/sPVwM
+NvNopOcfiHfjWUHwPMakVd02wqyasbSq90sVRpS4Ovkn1UM5urgUdelf/PxzDxuy
+H9o4NM1C+nl7r6+MPqyaeIkmvaRkYki3rd3+9GFHXGIMlmhXle3I1zp2TN95twj/
+uOfs8KjrxlxqInmvINk/LFH80ACyuZ/TqwayzmQLsJOF7Iv4uRvbjESjHYhq38kq
+d1aVDG3q/zIB/ZhaewbZlfNvYb68LaxOAhi/t8gewB3ONIdIznHD8LkzNzT1DgtG
+bvoHH0LK68UfSjTs9DJhPtl8
+=7sj8
 -----END PGP SIGNATURE-----
