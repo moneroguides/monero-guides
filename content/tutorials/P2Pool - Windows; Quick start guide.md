@@ -14,7 +14,7 @@ Hash: SHA512
 
 # P2Pool - Windows; Quick start guide
 
-## PREREQUISITES:
+## Prerequisites:
 
 * Kleopatra (GPG4Win) - https://www.gpg4win.org/download.html
 * New Monero wallet address (primary)
@@ -204,20 +204,23 @@ https://github.com/SChernykh/p2pool
 If you're interested to know more about it's featuresa nd how it works, including how to set things up on a different OS, this is the place to come. And at the bottom of this page you will find a donation address. The people who work on these things do it mostly for love rather than money, so every donation goes to keeping them motivated.
 
 Well, that's all for this video. Thanks so much for watching and happy mining.
+
+~moneroguides
+
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZexgbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqubsQAJrydue2v/jY6rx6bymi
-h62ScvZSN5dsEEtObzzdf1UEZrsQrTdt8zaHZslVAwJsQuxnerz+VvSxU1HyE0kb
-9G5tB4Qzheg5hIhFKsNr8GNvLKFYO5ATH8qbwInzS5y13MmRPusC898R6IExCJjI
-5ckdSkhTvbAQetDn6actvKfutgtyaoEVMT7Zs7jWv7XrGtJqQB+crJ6gJmvlJ4v9
-cRbZv22fVaNsVFUyUFKwfucLx02/Cgst4WoEOUn9Z4TlOCR6C1yMkTn++M/Ro/b8
-Uv8+5CVk+iYGIHL9PoqNssMX1upd4dU7wjfCtGs5PVuuYYqcq0vFFYPzhb8sa7nw
-A5K0WoZRgxIW4IWl/jzdicCNAxibBvwWimSzDm+CR5easeDyw0s17sSnF9+mnyyU
-RZbebUxbB6QT6Cong/7usm18isKZULi8gUsaqbj0pJC+mltgAeVc1aEVzFm3uemd
-f6lVLqRc/pC7Jc9G3wwPTRFtdt7AlvEEh9Tzod8f8srWlOUU65ff+TsxssBp9hdQ
-xccTLVIfHNanQIENZBDt97dZInkPRkMa3Xik7nKvNsgNknzO8ukqWILIJebf71XR
-TH2xcS7gfuShLgMFArirNqrmkQjzL5KjfOTKJl6UqK1NK2stwBf38h12lSORGYVg
-2QQ0+KxI5v7cpzerO2c4xIcl
-=nWuq
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ8s4bHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqFccQAK1o9xxpKvNowdiO9VID
+w+ffhAVD62X7uF+6YVJI1MtrgsiQfpZ+a3OsZEzrjdrMgtcC8V4//+uWNRQNrROe
+D01ONGQQfRpXtbWZ1xVPwc7hNT9cwsdtrhZBzIDwPUXmQaH6zW7ZMCI2s7fJkqn6
+VkJvG2TAps7TKRbmUd6BXP1Qcn7Je3X6yPhuNDzXgK46GbsCUiHFqbwjFpnWtCf9
+niYxfM7QUz81iwqyboalnpvNoEmIe0FiUDG0tZ3SogbUSHWcZ1ZV3heuXCi0lDOz
+juTQimxf/xBhM3i9ud3beztIjbskyUNbJG8uNB6z47MkTH5KBqs80tF0CjzkxbC/
+6Bj9/0NAzA8nlLjCSfAJ2frqKtZP1NpC8Ox8WgDm2Go5JSIQdzpihvWlJCAv3kXz
+dwjPuui8lCUNNInSoKsxa912UviEVLDbh+g4qeb9Y96puBaX2diQiaw1meyhTx28
+EAYt6ojm1sS2gIFJKY6WAqL7BHq2+7RiDI9qqY6xgr0oAhRwI6lIiCjhcvVoZBva
+yRK2f/wjSNdnQ5T2StwbbbzzBQkd2MoAb+Wz5d/aVt7q7bCzZFLqoIQHz7zxwZ0A
+fzEvt09S+VelonFFMKiIQUR0MoV4eTzRVJDjp2TK2T6hTmcaRjgumf0pxViV87E7
+nZ1AjXUqRQkaqo4Q1G/obKbU
+=T8xH
 -----END PGP SIGNATURE-----
