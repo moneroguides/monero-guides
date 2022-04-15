@@ -168,20 +168,21 @@ The instructions in this video will be relevant to a lot of our other videos so 
 Anyway, that's it for this installment, may your newfound GPG powers bring you peace and privacy!
 
 ~moneroguides
+
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9R0bHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8Mndfebq/QEP/ih49btYMxMuPidACz1X
-qVYFjia0Bd3BFry89SFLy4FhNH78PKem46NBoU/9yW5lb7HF6SAkjxrXNpT5uAZO
-cdR3iwZ1J51FwXb2Hs74u6PrUqIhK1SteHeH5lSJQTSElZ1ZyqkLPWzG6H3Fs+YY
-PzRIyVBhXT9fbufc2xClqAHrsCn9D9EpBzg9UCJjJhrvZXlT8xx++MPLGdFdpS/6
-11vCOO0DW0P6EdYVFU3ND1O2MjULBHgLqBgLH3/C8fgsUkhA4C+PIDPPO6+e+wbe
-Y6qaiWYSC9gcL9Wk+CPx6xjs6UbeXRsC32xbWR48lM2jsdGzsDN9tcHCCKisqOv1
-w8i+7xptksXGJy5TTwwZJ1yu7jkmZaawn0EN9YRgFWlEithzAgBC7i+1eZqqETcP
-Nk+LApcTXZvm4SLz2rXYdEhv4YX7Ndi3y6rvsoo5JFQQ/bDi/icbIRPH1z6BQ+IF
-J2+sDzFttbqzVWXGtDWCiGBrWX4ipUwc/eESanyUxYCypS2Vl2168HgtqPzp6SRe
-omqX68fiUtl4erodPOaTwouXNxqRsvT69ybBbRIAp2fPoHIr39WkIJJfPnC0xOeY
-ul+Ei2XEJgEDU3stplbJf0mVL9irpABcH0kzhk1moWGa66oIYlucb9GgPmPOUF4k
-8ZGlZXK1fA2TwxTJsBj+KqUu
-=qQkb
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9qEbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqrWkP/jPzg6mKww1qr8n0+LHZ
+hw1Ua9ZPA8SqZSKe4Rvo/MNlDkpqac+5lQX2neW2NURYjupsehQh9dYhqkQ/C6Ml
+kxZzzKV5eETMkjAOTcUsrAwOwn+eTMaeJSvmWq1eE+WwpLoCwlpgxUnz+uiiKfIx
+9pK4KzCWgSsjQ7moyHbcyNTZLs1HXKN+icPENTSirPzcgAjvV5ESAVbCnyD3lqa2
+I1qhLMkiV5HqFmjHIJeGYILNYn2heM2YGVJNsmIujbNro2c6LZxlZsynh8DtQ9zR
+glFFiY7Mgv3sc114pmv/fs742qkYev5DzllJcavfOihjbgj1q3BUPUln72Wq1X1P
+w38470/LtLT2JAFF52UIAh5W1m1VvnG4vJI1jByxO37hsxt9PcNQg5Eq+c5uRhC9
+lONxGJN3adrbrBv2wOCyRFCgtabnXT7ZvoNhEcBx2LWun+7sXUxwtlYn5X3ozrSL
+qRv5d9lecPj0+AOpytliuT+BqZV35nfOkbHyGPjfW28r/YZsqXyrXPeOIoHWjSop
++AlOkPsI3rb3cWHx4vfQ94+ZvJTeMgcpFYzMI5bAK4HDxU5HnwSMVK+LYXQjFDmf
+z896moQXFvyP9+X3gHDFD1+NW3irFHn8zW/biQM3ar5jJeXK1u8ra8ffg5KAY56q
+SgHk2e7Git6KEV9Oljy+rS6Q
+=c40M
 -----END PGP SIGNATURE-----
