@@ -9,12 +9,14 @@ layout: "article"
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe src="https://invidio.xamh.de/embed/yfbvTksF9ic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Windows; Quick start guide"></iframe></div>{{< /rawhtml >}}
 
+[Raw Signed Script](https://github.com/moneroguides/moneroguides.org/raw/main/content/tutorials/01x03%20Using%20Monero%20as%20Money.md)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 # Getting to Grips with Monero - Using Monero as Money
 
-## PREREQUISITES
+## Prerequisites:
 
 * GPG (Linux)
 * Kleopatra / gpg4win (Windows)
@@ -256,20 +258,23 @@ In this video we've only covered the most fundamental aspects of using Monero as
 Nevertheless, we hope you've learnt a lot and will now take the time to expand your knowledge and experience.
 
 Anyway, that's all for this video, thank you for watching and peace be with you privacy fans.
+
+~moneroguides
+
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZeS8bHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqHSoP/0XR73lbROIN1ITl8KdF
-yIwPQJYBnQrJMvJcDFX+4aeNCUMoVoqkjEgCATcsJquW7/9HpnOYE88cMK9TvHrW
-snrh83jNyBSd5DXqHBUvot9AUazEP1ZoF818uNFZsAlUiwXq06u1DMA+TK166oLM
-2uUXKIb0Iwwkysd+6dKOPTJJKUJim6g4ZKvCIL4u6rsfUgoj0N9yKAnub8ws1/x1
-2uVodC4T2JFQt1LM5iREBzsJKp7f0JnHxz0N77+JZhYG5yo6nrZ1HYrdF3BtzT7E
-Xlr6gTFkECTOZGx+57+2TYYruQprKdNWDM29lXN1+v7Hee101pImt7Etcjutxo5P
-pU97jWCrbTb20poo+x07yrzVgsYCV10YxY4bAAcfqX720DXsvDsxvWI7BPAsDefz
-APA2VEebEd/Nd19xNdXagUqNJk8BdtLgc/4GOhUOMbI9BzbWeYK9FP1TR6bKZijC
-8pVC1qysfCwN0yjiW4X1cLnabzOUesfFIfyhN/wXNEXDlW41SihPA5o2Svkx3Zjq
-hEZ8Or7ykazPEIOzB0MqXKwZlfv8xv+ZP5vDcIW9nYVCAlSYYDj3YFiREfRli8t3
-EfsfWAtqqPr/al+UHiWAAcUmwP+t9hgP47BxYUWRJJEhFYVfb3js8yt27VhJyk5I
-13jtmZGrtOorGo/JgpA2kek5
-=yHCh
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9qcbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqdwkP/iHLKO8J/fQm2f0bfNVV
+jRLSUrsxbA6Y/wBGuCp/a6p6W7ygnl8JSJNiBSFPPcpg6al2JXnvmhosGIfc2xvt
+YTnac3+55AY8irJp88iU5hTYBCjFbGBaF+SBxzz/hjuGtjpy8ij3u/LUK3ryXxEM
+sRGfqDV/mGpbllIw1ahGA69WuIZeUAbeOYk932uc76CsHlPo11q+MIvjleaXdUF0
+L2RzGTYZxehI8wb8VXMK/1+bWqitHCtd7aFUEHOO7rY12QgD35HA2WMVLMNW3fdB
+WhWLRy6WiXR29KINpk0M1NntZB3/OdyBO/p4dV+63GE+nNdI0nvLWLqtquxzVA2x
+lVOXETp60zLF8/jzWbzEBTcf0Uume4PUO/H/mRw1R619hbqZQJQFMyWJ0UQgyyB2
+w2RCHsgWnYJh4nv0+0WEC59e9DkYaNbhiIg5xYF6zfiFiScmSf93MAddpnbV6NDv
+k8U2XWgH98Av3m0GlXj4VwFJy1vi7SilMZ9fWtLBbMQCJn7V8MS5WjNWdZQKeaUd
+XG/41Rp6t+RC53TC9MnkR2Wmbwq1tfdIUEoMio4Te7ZLjrV0wyUX2cL4jSsimOyq
+imuK+rR6GYGm37yoG56UOdOL5f822BmLQ4UwhG+x/tHFQvdxUGs2ac0lGfy/X/D6
+noxtZg8Dtlj+OOGeG1mxRvQd
+=mvu1
 -----END PGP SIGNATURE-----
