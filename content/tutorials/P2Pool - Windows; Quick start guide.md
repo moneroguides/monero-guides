@@ -144,7 +144,7 @@ This time it's the xmrig zip file, remember to press TAB to autocomplete.
 
 There's our hash. Now we can open our text editor and see if there's a match.
 
-As we can see that there's a match between this line and the has that we just generated. This means that the zip file is in fact the one we were supposed to download and it should therefore be safe to use. So let's go ahead and open it and extract the contents.
+As we can see that there's a match between this line and the hash that we just generated. This means that the zip file is in fact the one we were supposed to download and it should therefore be safe to use. So let's go ahead and open it and extract the contents.
 
 Before we go any further with our XMRig setup, Let's check on the P2Pool software.
 
@@ -287,18 +287,19 @@ Well, that's all for this video. Thanks so much for watching and happy mining.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJcQkwbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8Mndfebq4cMP/RdumV+IZnHsPCWJDh8u
-DqpwKX4lOuOsmUHpnHbrFGTMbfameclgGF7rTI/JoaZ2bD7HWL2tVIMQnHxQfcS0
-MgVFjtMHWTi/EeKD1PH8Hmn8mSSByIVBmWO5FcakqS6sHGSvHNuQrJVom2l5PV3C
-37apm/3iyWaMDU0WRCIhsgrcerlFZ+w4YDT/ENf7zLZPJiHtlsG/nDqd+5amIVLG
-cOz2PPyRo1JgldYEs4H8waYE5tOOU8KumldvjljQJ+9bnAFQGLZ1Pou52j47Sgll
-etCZwFyok8i3apj9ckzAqpU1tfSXy0EEWhnNBXjjmlI/HeqIyO50b9peLl7KapJk
-WVWLQdK8sjlaCAeqO1ZTX85wNat1CgffQqN2LwtX1Dmb7f0Bv9N7B48UJgLKjsI/
-oodyqpfKgaHm6FHYup7QeN9IQbYar+P7JKeIusIR4UxFyIZXx2vDCmmQglpfkBWh
-7VtyUDHl8ZIAO5ny28Inclwqh7H9NkSCBiowuqZObx4pgzcgDAbad7Nc6Z4S9gq0
-fLGksHpVG+PCRlGSy+BPAFyZ+RyIg6Zzg9Fqp8MgFKF9xJgI4ePvdnq6kqD4OuCF
-+kolg5qG5x6ZnM4vycPw1DRRqzwWvF+r3bxxYKBoxeC85Jw64mGf02H9cG0YVxxv
-dYiZCFIcZ3aLT0yRelQsUGr/
-=DQaP
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJcrz0bHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8Mndfebqm8UQAJZEyb2Eq6qICOvzMlTW
+bnTcQOYa72CtIgktc5xOwrQDW9b5MV3mgxswX6oc4sAj8Z6t5yxd9ZHnj+Cq3X+0
+nprZPGZYiqIiGtElZeaDJNFatfabjbA2PYg8FisoLRyy8VNf31vb538LY3vX5k6n
+93Wdg0hJ6narAhv+3kzaZn8Pvo8QVSub2kmLgxMVYKIehAfOiWU+536lPFJutqV2
+ia/b/97z2GSMCk5xUIzqHNb1yX2Ma/1CPsontL+9KLtOZL5wJ84V8OGB9y2Pyv96
+piJYjG7f+L/ECRlTXjYDbQGMooJywzPlDZpYphlm9mZZPNen+sw2P9HHzoL++4TP
+osgalhQGD4e8SjIyl39Tjvw2AyQtPbuPFF8J2y8ULfm5pRf3GwFuKbTZ15LaMnXo
+9iarwnqaV4vNPzyfGHvHB70JvB92PZxUTyNOQo9eJk45I3i3zLsqfxTCdeqC3kxo
+5Njyqd7wZE+5aJnNrWY3GK7avYVF83RoqI8pjoUy8VLFfKkSqW8zqgcA47IS4jVI
+Wz+ItiE0scjy9DGkWlznnlh9WohwQNTGRrlZPNYHWnNnH3XFyY3/HRj6xa2A79X9
+FQuPPwfhdYAC4h6EJb8P3OO+9F1ZX/NENZW/7tPmAHxvTp2ukUpvYd3NpWBzwOpD
+zNTdTf6bNeEY7aKXaIWlTSLY
+=8Ij8
+-----END PGP SIGNATURE-----
 -----END PGP SIGNATURE-----
