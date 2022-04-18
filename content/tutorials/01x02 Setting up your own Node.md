@@ -65,7 +65,7 @@ If you're unable to run your own node for whatever reason, you can skip over thi
 
 Another thing to think about, either when connecting to remote nodes or hosting your own, is that your Internet Service Provider (ISP) will be able to recognise all of your activities. Although this information doesn't deanonymise your Monero address or transactions, it can still be used by malicious actors.
 
-Hosting your own node for use with your own wallet simply reduces the amount of your personal data floating around the web. Monero's Dandelion++ technology does the hard part by seamlessly obfuscating the origin of all transactions. This article from the good folks at LocalMonero goes into more detail about Dandelion++.
+Hosting your own node for use with your own wallet simply reduces the amount of your personal data floating around the web. Monero's Dandelion++ technology does the hard part by seamlessly obfuscating the origin of all transactions. [This article](https://localmonero.co/knowledge/monero-dandelion) from the good folks at LocalMonero goes into more detail about Dandelion++.
 
 Before we continue, you need to learn about whatever local risks, if any, are associated with hosting your own node. This is important for your personal security and obviously depends on where in the world you live and work.
 
@@ -302,18 +302,18 @@ Thanks for watching and bye for now.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9qQbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqQGsQAJ/Rcub9UiqcSErmKyFn
-5T9c3PuF3RgMWii7H0ys62gYQ79dLlqau16HzUwy3XJ9Mo/YZUn4lw4sMx5hCR9I
-FwvjId08r/cuunOAZn+rLRCFxzTmvbrxDwHSNX7k90KtOPvLb8bI1Z404a9rHawL
-ukTFfHTh2NIfIpsRoqVSAc3pj8c9JWVYxkWDJP1GiFHFFnxorLu/NHndP5mUIBm1
-Kw1sijmIGB3eY1w1ehqtoIN36QhAsCKufiv4voeEk1EE7wW2wNcNgb9sA537bW/3
-0C1FKDRNcJAK+batQClsUa2nea+XBU0QRXmqlyBCtzkY4vk74CZtu1TJx1wqSjY0
-OgatvOqLYfKY3HYuE9YN6LJaRyfvUeDvBjiud8y4imhizO5qlepuWUkGyOXXxRN9
-n9lj+xhmgAc4WsLiAMwLGck2oRKX8TRuOVKW/ysbfGI1EmzUKKU7UG046SrY6xEf
-BE6Rz6mL1kOrlS7F0jCxrXbo3zHmxsN1KPdMR3dKekIureb5gWjUCmmYsMVNJ0uN
-dKnlFsKd5mBlzlhiySuXJXRQu/kPifF+8k5pJlVcZZx+vGEALmC+PMAI5q/exNZk
-s5CKPm0qVH5dtk4ngTTOGLzTqIkKaHfokLFoyv9c717lzYLrjQ9jufCjukybaUIT
-pcxIBQh1dSX4ezwk6TkFELp2
-=12PT
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJdcKIbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqFOUP/Ah7BE5ihClG/J4/sPJs
+d7AeqLRmHduv3MEb8k+sK6EuTsCUYhE8cCLJpw3+Yj+AK9O1eZfYtQZN3KH1ToL7
+h28fojKJ3Ug0svNn5YU2cX4VcHP63TnLhagaHFR+ZCipC3XtajhP90E+djmU6zYP
++8Oi7e+mzriNSgiLta7fFNVSM3LVa5UHUkLCd4cXlH6V4ilIv6ceIM+P8gUBavVa
+rMrKbXggazqRd6PK9Ve1XOX5S/F/Fj15pQde3Xovvlg0zYebVk8WhOgUAzphQcCX
+/14X4OHkuazaTfclLGVGP9SUoq6ur8uirwNCTppv4wH+Fmznsy94tlSdGi3amc2m
+evzJ9xhJ0zz0N7hv5djZPEA37bUm49xqSPv1OgkRjLFen1La44eyRrV4cfOLrveF
+YDyuxLhI0lZASvdDmGC5FPnQ0SASmDbWyo2O89rED3BPHLnIl69oSg6GgSTWUdX3
+91W3qQ1UNR8yB/44rLzVOlP0CsAWsyfJZi7wazJ3I+U/oAYfNJqCULwUspfEEfS1
+QI+GSd3uJmV2AnHqMMwk94Ce7D55R+XVxLN12gY5FZ7tpd2coJRkUQLoNSf6Ltd2
+8JItfBz5LTznhEeiHhxkPPqhAlN+hLj9nWFhKdq1xt9JZIGKyeG50WfUgan4Ru6l
+uYgIJ8uMrXV24Ah4HiqFtqxI
+=WPXu
 -----END PGP SIGNATURE-----
