@@ -11,13 +11,9 @@ layout: "article"
 #### UPDATE for windows users
 \
 \
-If your hash rate is bellow 50Kh/s please consider the following link; https://xmrvsbeast.com/p2pool/sidechains.html
+If your hash rate is bellow 50Kh/s please consider switching to P2Pool-mini
 
-Follow the instructions on that page for the mini pool. 
-
-Make sure you replace the existing peers file. Then edit your start.ps1 file. 
-
-Edit line 90  so that it now reads ```Start-Process .\p2pool.exe -ArgumentList "--wallet $Wallet","--config mini_config.json","--p2p 0.0.0.0:37888" -Wait -NoNewWindow```
+Since P2Pool version 1.7, you can do this by editing line 90 so that it now reads ```Start-Process .\p2pool.exe -ArgumentList "--wallet $Wallet","--mini","--p2p 0.0.0.0:37888" -Wait -NoNewWindow```
 \
 \
 ![startps1](/images/startps1.png)
