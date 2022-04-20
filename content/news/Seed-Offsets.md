@@ -18,6 +18,8 @@ Head to 'Restore Wallet', enter your seed and then a passphrase. Passphrases whi
 If someone finds your seed and they restore it, they'll end up with nothing.
 
 Only if they find both seed + offset they can restore the right wallets :)
+
+!Attention! passphrases are case sensitive
 \
 \
 ![seed-offset](/images/seed-offset.png)
