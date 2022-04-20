@@ -1,6 +1,6 @@
 ---
 title: "01x02 Setting up your own Node"
-date: 2022-04-22T10:22:07Z
+date: 2022-04-24T13:00:00Z
 image: images/P2Pool - Windows; Quick start guide.png
 description: "Learn how to set up your own Monero node"
 type: "article"
