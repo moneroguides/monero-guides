@@ -15,7 +15,7 @@ Now it's even easier to use and store multiple mnemonic seeds!
 
 Head to 'Restore Wallet', enter your seed and then a passphrase. Passphrases which you can freely choose, offset your seed and create new and unique mnemonics.
 
-If someone finds your seed and they restore, they'll end up with nothing.
+If someone finds your seed and they restore it, they'll end up with nothing.
 
 Only if they find both seed + offset they can restore the right wallets :)
 \
