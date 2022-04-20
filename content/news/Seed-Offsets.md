@@ -8,7 +8,7 @@ layout: "article"
 ---
 
 # Monero mnemonic seed with offset passphrase
-#### UPDATE Feather and Monerujo wallets
+#### UPDATE for Feather and Monerujo wallets
 \
 \
 Now it's even easier to use and store multiple mnemonic seeds!
