@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/yfbvTksF9ic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://invidio.xamh.de/embed/_KeapXrRfXw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://github.com/moneroguides/moneroguides.org/raw/main/content/tutorials/01x03%20Using%20Monero%20as%20Money.md)
 
