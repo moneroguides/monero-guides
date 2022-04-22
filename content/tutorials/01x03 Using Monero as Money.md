@@ -247,7 +247,7 @@ Seed phrases are not the only way to restore access to your keys. You can also d
 
 To view our keys, once again select *Wallet* and then *Keys*. You will notice that there are 5 keys in total, each of which serves a special function. The ones we're interested in are the **Secret spend key** and **Secret view key**. These keys, together with the primary address are equivalent to the seed phrase.
 
-With just the primary address, restore height and view key, it is possible to create something called a **View Only wallet**. This kind of wallet enbles you and other parties the ability to view the history and current funds attributed to your keys.
+With just the primary address, restore height and view key, it is possible to create something called a **View Only wallet**. This kind of wallet enables you and other parties the ability to view the history and current funds attributed to your keys.
 
 This feature exists because unlike protocols which are not private by design, there is no other way to share this information. This is practical for many reasons including the ability to provide financial records and to pay your taxes. 
 
@@ -263,18 +263,18 @@ Anyway, that's all for this video, thank you for watching and peace be with you 
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9qcbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqdwkP/iHLKO8J/fQm2f0bfNVV
-jRLSUrsxbA6Y/wBGuCp/a6p6W7ygnl8JSJNiBSFPPcpg6al2JXnvmhosGIfc2xvt
-YTnac3+55AY8irJp88iU5hTYBCjFbGBaF+SBxzz/hjuGtjpy8ij3u/LUK3ryXxEM
-sRGfqDV/mGpbllIw1ahGA69WuIZeUAbeOYk932uc76CsHlPo11q+MIvjleaXdUF0
-L2RzGTYZxehI8wb8VXMK/1+bWqitHCtd7aFUEHOO7rY12QgD35HA2WMVLMNW3fdB
-WhWLRy6WiXR29KINpk0M1NntZB3/OdyBO/p4dV+63GE+nNdI0nvLWLqtquxzVA2x
-lVOXETp60zLF8/jzWbzEBTcf0Uume4PUO/H/mRw1R619hbqZQJQFMyWJ0UQgyyB2
-w2RCHsgWnYJh4nv0+0WEC59e9DkYaNbhiIg5xYF6zfiFiScmSf93MAddpnbV6NDv
-k8U2XWgH98Av3m0GlXj4VwFJy1vi7SilMZ9fWtLBbMQCJn7V8MS5WjNWdZQKeaUd
-XG/41Rp6t+RC53TC9MnkR2Wmbwq1tfdIUEoMio4Te7ZLjrV0wyUX2cL4jSsimOyq
-imuK+rR6GYGm37yoG56UOdOL5f822BmLQ4UwhG+x/tHFQvdxUGs2ac0lGfy/X/D6
-noxtZg8Dtlj+OOGeG1mxRvQd
-=mvu1
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJjFVMbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqWRwP/0kms43DtLESOtJ2D6fB
+Tg5MyPLHAM0HgTzKNoqcLjttE+dIyQtXtkXnnFVA7emCRTgvkZ3jaTA4vssbejTQ
+3WjcxyxHbH8DgLgjFlufANDTd9Do8jDLZqyy/QPG1omZj0ZupOe5hfGQGMMaoV/P
+q5xbLPIwYf2RqAWKBZ9u6D5h7upoHheSCenMFuIorFk6K51mqIcT1knPZ2gWrjkk
+u9PMYhso1W7JEAr0D0Us9epvXv3DReC+OZ369x+AaQuY5ljBVfAIx90fGRNGugXF
+VdBYsS+zIdSe3Pkmtv2H/DkLQOY7tvYO8UH9aLiaOO5heIq7WPEwbrIlWKXI/65c
+uhhiXYGiYsqgHaDmzVBmL7YUEoW0sWSoqShVtA1tWTwud+nnY2aDNdPSCuuvOdh5
+lvrBRbGgWLsr5Z2bzekY3RxfUcZ+TUb/blk60MTW7EUz/DzxKEsONGEx6EhcDIJL
+48InUdg8bltembs/TfdGW+vpvmGjn0ieZ5Fy5MzaRqrCovY3ljFyEPxPdtuUcrys
+u5/w7lKHrqhpq0WkfQuvlVzusUzYlVuq3brWJMReVpwiPW4frCNDTpU2b6STrQU1
+W1JDEo6tRtQWW/4lm0YVnG7TwNRCbR83L9Hkl5HLRDHb6UnPlnP00L7IZiOoHmrq
+n9DTiIDcFOpPknE9QQRem9c/
+=zFPT
 -----END PGP SIGNATURE-----
