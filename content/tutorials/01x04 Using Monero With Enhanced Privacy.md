@@ -10,7 +10,6 @@ layout: "article"
 <iframe src="https://invidio.xamh.de/embed/yfbvTksF9ic" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/01x04%20-%20Using%20Monero%20With%20Enhanced%20Privacy.md)
-
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -160,7 +159,7 @@ Click "OK" when you're done and then double click on the node to connect to it. 
 
 ### PASSWORD PROTECTION
 
-As we've seen here, it's possible to secure your RPC server with usernames and passwords. With this in place only those with a given username and password will be able to interact with the server. To enable this, we need to head back to our `bitmonero.conf` once more.
+You may have noticed that it's possible to secure your RPC server with usernames and passwords. With this in place only those with a given username and password will be able to interact with the server. To enable this, we need to head back to our `bitmonero.conf` once more.
 
 The flag for adding a username and password pair is as follows: `rpc-login=username:password`. This flag, along with many others can be found via the [Monerodocs website](https://monerodocs.org/interacting/monerod-reference/) which you may remember from the second video. With that line added, you should now restart your node for the settings to take effect.
 
@@ -179,18 +178,18 @@ So from us here at Monero Guides we wish you the best of luck on your adventures
 ~moneroguides
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJiCW0bHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqlEIQAI0Zxl77a2L9FPrEsvAp
-M/tpw+bsDW1twHTsvHpODdC8UQA3znhDd+tFQSRW5I4mpYte0bPu6wr9e5cxE5+F
-7fhmG/gEOFV2kUCJzhhzR3fXryk1ujfW86ZARUhbCWak+2nE+MmOwVy7v8klklev
-QDAirKe2PWw8LdK5zZE/km4WIziZE/wvm1IxIJX2O/uQRn+YmJ+g88j9gYWHBWH1
-blhI1L0cGQv9eyitW55Off+YQTXV6aNdePwZ6Dh+AsgSBuWXd06CaVfPFOBbfXXq
-zupxbOshrKA1DNvz8Ay0Agc7VeIwpU0K4aKcPVso1YsupkgUVC0MDtqrrR9UjFZn
-xqWMXjySvTgLpy1KrbjCosNFjZS+b5BItJcQupveskpHDqZPdNmMMscsjvKXnwV/
-XmDqPM57kgOsPuioBexMNiyGSjBDqIYYtDnL1bkczr4UsYpatPtL+DFRbBR3eI2z
-7SRncf07RhM0lW6yXCh4dgGS0KWu2LzAg1JxJdVnGwi4nFtUU6D2lwDn7gDEW8Ys
-SHzccFnT4Fpy7E1ww+6eC7dXv7Vk09Ww4DesodWuYe/5yxnmgid8qLwLdFfCvk2u
-e7HZ4nnA6jk3jzDT37RGqprqOOaAL8zIvx4BuKiQK0+92hcGfaFBc6vFC5+rParB
-fE92iqS8cum0gPO/Ad4dsTeC
-=b44c
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJjFa0bHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqjDAP/R5aVuA8YydpwxG/Jzv8
+1t9Txq5cVTr9xMlSimppaLQtcSzuDB8gCUdCoLhRI6yi1VevdpsFghY+TCPqd62p
+lrBhBgIIBeP3mpmMKenm+o/Tk6XWk/M7Y0psnK9V2z0KTrlTsndXHIrVxCa6YV0/
+gWZs5zRj1hblDXaopsvPnR+8QghJ8NlfGloZNgL640NE0qMBZ2kZoY0KwoJxgyEA
+/xwEh3wm3MQc/xBnEL1oA3YlTLpIYd66JsOGTXtkeFZYgn6IHI14wNfpRFa1F2Zw
+GeP1KFpkVrCCK8IaVDp5dIoxRSHeCTd5ehe0n9DFqYRKBc71YXCtzYNf/9PHYoXi
+uNrlnu7GMzRl/k0pnlwXKcMHjYF4DfWzj4judnSDs04VM1Df7C4fFFaghPx7S5B5
+BOVe1UlIC5bnYyR2nrlTcMaR+98Gh5WxXeOWhpNaGZtoRwYTy0uM+gR+hot4zIu7
+j9Z15LXCJxI9GeEaV/C9YQZFraUIIv43soejBbIuLgUikP2tLvJKy5RAWtS0OqLY
+tGX3oaixaN0BWYaU5VRxBNrEEIuLIw8wzycU8XZRTi5Ro5Fd080UGF446SLSQWqL
+G+I8DjJZV3ibc7qJeF0ewI2g+G8wJqn4nHmZbAo6UWML9WSiJum9L8aMz6aEjZbD
+P6d0o3vhr3TNsNCsZi7bIYoY
+=8Rgi
 -----END PGP SIGNATURE-----
