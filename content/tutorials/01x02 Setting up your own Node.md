@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/XonyYxjjfcg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Windows; Quick start guide"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://invidio.xamh.de/embed/XonyYxjjfcg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x02 Setting up your own Node"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x02-setting-up-your-own-node/main/script.md)
 
