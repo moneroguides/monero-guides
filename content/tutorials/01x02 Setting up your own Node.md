@@ -1,6 +1,6 @@
 ---
 title: "01x02 Setting up your own Node"
-date: 2022-04-23T14:05:00Z
+date: 2022-04-23T14:00:00Z
 image: images/Setting up your own Node.png
 description: "Learn how to set up your own Monero node"
 type: "article"
