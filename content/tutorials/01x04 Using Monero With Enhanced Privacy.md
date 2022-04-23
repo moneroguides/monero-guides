@@ -1,6 +1,6 @@
 ---
 title: "01x04 Using Monero With Enhanced Privacy"
-date: 2022-04-23T14:45:00Z
+date: 2022-04-23T14:00:00Z
 image: images/Using Monero With Enhanced Privacy.png
 description: "Practices and ways to enhance your privacy whilst using Monero"
 type: "article"
