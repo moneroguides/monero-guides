@@ -1,6 +1,6 @@
 ---
 title: "01x04 Using Monero With Enhanced Privacy"
-date: 2022-04-24T13:30:00Z
+date: 2022-04-23T15:45:00Z
 image: images/P2Pool - Using monero as Money.png
 description: "Practices and ways to enhance your privacy whilst using Monero"
 type: "article"
