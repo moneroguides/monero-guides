@@ -1,6 +1,6 @@
 ---
 title: "01x01 Importing Public Keys & Verifying Hashes"
-date: 2022-04-23T15:00:00Z
+date: 2022-04-23T14:00:00Z
 image: images/P2Pool - Importing Public Keys & Verifying Hashes.png
 description: "Introduction to PGP and its use case"
 type: "article"
