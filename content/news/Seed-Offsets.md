@@ -1,6 +1,6 @@
 ---
 title: "Monero mnemonic seed with offset passphrase"
-date: 2022-04-24T13:30:30Z
+date: 2022-04-23T15:45:01Z
 description: "Feather and Monerujo wallets now support seed offset passphrases"
 image: /images/seed-offset.png
 type: "article"
