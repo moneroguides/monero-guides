@@ -10,6 +10,7 @@ layout: "article"
 <iframe src="https://invidio.xamh.de/embed/kLOAgdXTUWc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/01x04%20-%20Using%20Monero%20With%20Enhanced%20Privacy.md)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -47,7 +48,7 @@ That moves us onto the second thing you can do, churning. Churning is the act of
 
 The "Coins" tab in Feather is great for managing both of these practices. To churn, simply right click on one of your owned outputs and select "Sweep output". When the new window opens, select "Send to self (churn)". **When using the send to self function, Feather will send that output to your primary address.**
 
-Another helpful feature of Feather wallet is the ability to freeze outputs. This is useful when you have multiple outputs from different sources in the same account. Freezing them prevents Feather from using them when generating new transactions. You'll notice that the avilable balance in the tool bar has changed to reflect this.
+Another helpful feature of Feather wallet is the ability to freeze outputs. This is useful when you have multiple outputs from different sources in the same account. Freezing them prevents Feather from using them when generating new transactions. You'll notice that the available balance in the tool bar has changed to reflect this.
 
 With these ideas in mind in addition to what was learnt in video three about account management, you now have a wide range of tools to increase your level of privacy when using the network.
 
@@ -73,7 +74,7 @@ For those of you who followed the previous videos and were not able to host your
 
 In the next sections we'll be demonstrating how to configure our nodes to accept RPC's from outside our LAN. Firstly using Clearnet and then Darknet, which is aimed only at Linux users.
 
-We have one more warning before diving in. Opening ports comes with some risk, although we didn't issue a warning for the P2P networking, we will for RPC's. The risk of opening ports is normally tightly bound to the application that is being run through that port. Although there are no known vulnerabilities in the RPC implementation, it doesn't mean that there aren't any. If you have concerns or problems with port forwarding, we'd recomend you host your node over Tor, which does not require you to do this.
+We have one more warning before diving in. Opening ports comes with some risk, although we didn't issue a warning for the P2P networking, we will for RPC's. The risk of opening ports is normally tightly bound to the application that is being run through that port. Although there are no known vulnerabilities in the RPC implementation, it doesn't mean that there aren't any. If you have concerns or problems with port forwarding, we'd reccomend you host your node over Tor, which does not require you to do this.
 
 ### CONFIGURING YOUR NODE - CLEARNET
 
@@ -176,20 +177,21 @@ We want to close by thanking you for staying tuned. We hope you now have the too
 So from us here at Monero Guides we wish you the best of luck on your adventures and look forward to seeing you again in future installments.
 
 ~moneroguides
+
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJjFa0bHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqjDAP/R5aVuA8YydpwxG/Jzv8
-1t9Txq5cVTr9xMlSimppaLQtcSzuDB8gCUdCoLhRI6yi1VevdpsFghY+TCPqd62p
-lrBhBgIIBeP3mpmMKenm+o/Tk6XWk/M7Y0psnK9V2z0KTrlTsndXHIrVxCa6YV0/
-gWZs5zRj1hblDXaopsvPnR+8QghJ8NlfGloZNgL640NE0qMBZ2kZoY0KwoJxgyEA
-/xwEh3wm3MQc/xBnEL1oA3YlTLpIYd66JsOGTXtkeFZYgn6IHI14wNfpRFa1F2Zw
-GeP1KFpkVrCCK8IaVDp5dIoxRSHeCTd5ehe0n9DFqYRKBc71YXCtzYNf/9PHYoXi
-uNrlnu7GMzRl/k0pnlwXKcMHjYF4DfWzj4judnSDs04VM1Df7C4fFFaghPx7S5B5
-BOVe1UlIC5bnYyR2nrlTcMaR+98Gh5WxXeOWhpNaGZtoRwYTy0uM+gR+hot4zIu7
-j9Z15LXCJxI9GeEaV/C9YQZFraUIIv43soejBbIuLgUikP2tLvJKy5RAWtS0OqLY
-tGX3oaixaN0BWYaU5VRxBNrEEIuLIw8wzycU8XZRTi5Ro5Fd080UGF446SLSQWqL
-G+I8DjJZV3ibc7qJeF0ewI2g+G8wJqn4nHmZbAo6UWML9WSiJum9L8aMz6aEjZbD
-P6d0o3vhr3TNsNCsZi7bIYoY
-=8Rgi
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJj/iMbHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqZ78P/RWApeKl44H7/ji02NRy
+DWJIUAVWG0EgCkHdPySLyd4O7QvkXIsOoA2tWDOgt/1xzBauBNDPuF2CBMaN/fGs
+W5XkfRYqgK2FVb5uH1iT0flTng/jUpGNJCpFiixtWPtH0rmmMKPD7skeGaF/iiAn
+681ToD4mKs0cpywXeqItJBMQlasyBEG+IvYrt2qfw1QrNnhbqAOtaviqnkUf6PSu
+OnfOCblnokTu/CtacMW+vF0E8O4fRrb3oeBDOvDcqdGYtpy9npVZWbj0P+KXc06U
+qjrwTMs/JRGg2PdLGCme7/8biLnT09qPp828G07NwRENIvlnPNQnxjAPWFG2qCrE
+1OBlLWWEKV0lbtEce/0pLzu9vilBKNsBTR0akiKN5cBnZbx6TCsQ72TsxwFkB2EV
+X4CsxPaafunjmjdTets43mJhhbeuyAAdeq1prw59gZ6owm0u3kJtci1x7qv6l3fi
+WyMV1VAIUyHhfVYQWUc0knGMNHw2VyVUnyLLNpnLb0rbvFvcBhz553qdnXDPcDeb
+NRafu/OpFM0QS0jP2e868htOe253+BRdZk8cA9W074NrKdBrQ2nOkgCDqQ6RvHjM
+YNlF5u0p4QVDln/3E+/DI5ouQsvjCChhZpl+2OjW5u5L6bZIDDJdhnczxNZRxZiP
+KPsVXUndixsFa8/H8g6bCgs5
+=m0ZG
 -----END PGP SIGNATURE-----
