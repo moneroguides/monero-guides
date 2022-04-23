@@ -1,7 +1,7 @@
 ---
 title: "01x03 Using Monero as Money"
 date: 2022-04-23T14:30:00Z
-image: images/P2Pool - Using monero as Money.png
+image: images/Using monero as Money.png
 description: "Introduction to using Monero"
 type: "article"
 layout: "article"
