@@ -2,10 +2,9 @@
 <main>
   <div class="container">
     <h1>Latest</h1>
-    <div class="row">
+    <div class="card-container">
       {{ range $section, $taxonomy := .Site.Sections }}
         {{ range $taxonomy.Pages }}
-          <div class="col-4">
             <a href="{{ .Permalink }}" class="index-card-link">
               <div class="index-card">
                 <img src="{{.Params.image | absURL}}"/>
@@ -14,7 +13,6 @@
                 </div>
               </div>
             </a>
-          </div>
         {{ end }}
       {{ end }}
     </div>

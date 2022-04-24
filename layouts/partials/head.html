@@ -12,12 +12,25 @@
     href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap"
     rel="stylesheet"
   />
-  {{ range .Site.Params.custom_css -}}
-  <link rel="stylesheet" href="{{ . | absURL }}" />
-  {{- end }} {{ with .OutputFormats.Get "rss" -}} {{ printf `
-  <link rel="%s" type="%s" href="%s" title="%s" />
-  ` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }} {{ end -}} {{
-  $title := print .Site.Title " | " .Title }} {{ if .IsHome }}{{ $title =
-  .Site.Title }} {{ end }}
+
+  {{ $sassMain := resources.Get "sass/main.scss" }}
+  {{ $styleMain := $sassMain | resources.ToCSS | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $styleMain.Permalink }}" integrity="{{ $styleMain.Data.Integrity }}">
+  
+  {{ $sassReset := resources.Get "sass/reset.scss" }}
+  {{ $styleReset := $sassReset | resources.ToCSS | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $styleReset.Permalink }}" integrity="{{ $styleReset.Data.Integrity }}">
+
+
+  {{ with .OutputFormats.Get "rss" -}} 
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` 
+    .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML 
+  }} 
+  {{ end -}} 
+  {{ $title := print .Site.Title " | " .Title }} 
+  {{ if .IsHome }}
+  {{ $title = .Site.Title }} 
+  {{ end }}
+
   <title>{{ $title }}</title>
 </head>

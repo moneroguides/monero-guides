@@ -45,8 +45,8 @@ The greater the number of nodes in the network, the more resilient it is against
 
 Nodes are typically separated into two categories, local and remote. 
 
-- - Local nodes are those **within** your local network 
-- - Remote nodes are those **outside** your local network
+- Local nodes are those **within** your local network 
+- Remote nodes are those **outside** your local network
 
 
 ### REMOTE VS LOCAL
@@ -55,9 +55,9 @@ There are a few benefits to running a local node, the most notable of which is p
 
 When you connect to remote nodes, it's possible for the host to obtain the following details about you:
 
-- - Your IP address
-- - The block height from which your wallet started synchronisation
-- - The transaction IDs you broadcast and a list of decoys
+- Your IP address
+- The block height from which your wallet started synchronisation
+- The transaction IDs you broadcast and a list of decoys
 
 Depending on your privacy concerns, this might not be ideal. So make sure you connect to a remote node hosted by someone you can trust. This is very important!
 
@@ -104,8 +104,8 @@ If you're using a linux distro like I am currently, then you're going to need to
 
 You'll find the commands used in the description below, feel free to copy and paste them into your terminal window. To paste into the terminal window you'll need to use the *Shift* key in addition to *Ctrl*.
 
-- - Copy - *Ctrl + Shift + C* 
-- - Paste - *Ctrl + Shift + V*
+- Copy - *Ctrl + Shift + C* 
+- Paste - *Ctrl + Shift + V*
 
 We'll be using the following command for the next step;
 
@@ -129,12 +129,12 @@ Double click the zip file to open, then drag and drop the folder into the addres
 
 As Windows users it's best to add a custom security rule to your virus and threat protection settings to avoid any complications when running your node:
 
-- - First, open the virus and threat protection settings by typing in the search bar or opening the start menu and typing in `virus`
-- - Next, under *Virus and Threat Protection Settings*, click on *Manage Settings*
-- - Scroll down until you see the *Exclusions* section and choose *Add or remove exclusions*
-- - Click *Add an exclusion*
-- - Choose *Folder*
-- - Then select the folder that you just created in the root directory
+- First, open the virus and threat protection settings by typing in the search bar or opening the start menu and typing in `virus`
+- Next, under *Virus and Threat Protection Settings*, click on *Manage Settings*
+- Scroll down until you see the *Exclusions* section and choose *Add or remove exclusions*
+- Click *Add an exclusion*
+- Choose *Folder*
+- Then select the folder that you just created in the root directory
 
 
 ### CREATING A CONFIG FILE
@@ -202,14 +202,14 @@ The next thing we're going to want to do is change the location of the monerod p
 After all our work we can start our node for the very first time. Using the terminal, navigate to the folder that the monderod program is located in, then:
 
 **for Windows:**
-- - `shift+right click`
-- - open up a powershell
-- - type  `./monerod.exe --config-file=./bitmonero.conf`
+- `shift+right click`
+- open up a powershell
+- type  `./monerod.exe --config-file=./bitmonero.conf`
 
 **for Linux:**
-- - `right-click`
-- - open a terminal
-- - type `./monerod --config-file=./bitmonero.conf`
+- `right-click`
+- open a terminal
+- type `./monerod --config-file=./bitmonero.conf`
 
 Now let's hit enter!
 
@@ -233,11 +233,11 @@ Open up a new terminal and enter `ufw --version`. If you don't get a printout wi
 
 Now let's enter these three commands:
 
-- - Enable the ufw:
+- Enable the ufw:
    `sudo ufw enable`
-- - Block incoming connections:
+- Block incoming connections:
    `sudo ufw default deny incoming`
-- - Allow all outgoing connections:
+- Allow all outgoing connections:
    `sudo ufw default allow outgoing`
    
 The current state of our firewall isn't ideal right now as we won't be able to use our browsers or download system updates. For this reason we're going to want to allow ports 443 (tcp-https) and 80 (tcp-http). To do this we're going to run the following commands:
