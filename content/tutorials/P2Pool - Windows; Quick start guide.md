@@ -130,8 +130,8 @@ Let's head over to the xmrig official github repository to get the [latest relea
 
 We're going to verify the download the same way as before so I'll move through this process a bit more quickly this time. The public key for xmrig can be found in a different location this time, check the video description for the link. 
 
-- - https://github.com/xmrig/xmrig/blob/master/doc/gpg_keys/xmrig.asc
-- - https://xmrig.com/docs/gpgpg-key 
+- https://github.com/xmrig/xmrig/blob/master/doc/gpg_keys/xmrig.asc
+- https://xmrig.com/docs/gpgpg-key 
 (DON'T FORGET SUMS GET-FILEHASH)
 
 Once again we're going to copy the key into a text file. We can use the same `key.txt` file from earlier. Now that we've got our files and the key we're going to open Kleopatra once again. 
