@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Monero Guides</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on Monero Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 10:21:07 +0000</lastBuildDate><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/news/test/</link>
+      <pubDate>Wed, 17 Nov 2021 10:21:07 +0000</pubDate>
+      
+      <guid>http://example.org/news/test/</guid>
+      <description>This is a title and this is under it Now there&amp;rsquo;s a bit of text hahahahah</description>
+    </item>
+    
+  </channel>
+</rss>
