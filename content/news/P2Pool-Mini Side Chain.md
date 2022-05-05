@@ -11,7 +11,7 @@ layout: "article"
 #### UPDATE for windows users
 \
 \
-If your hash rate is bellow 50Kh/s please consider switching to P2Pool-mini
+If your hash rate is below 50Kh/s please consider switching to P2Pool-mini
 
 Since P2Pool version 1.7, you can do this by editing line 90 so that it now reads ```Start-Process .\p2pool.exe -ArgumentList "--wallet $Wallet","--mini","--p2p 0.0.0.0:37888" -Wait -NoNewWindow```
 \

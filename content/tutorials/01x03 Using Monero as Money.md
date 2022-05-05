@@ -48,8 +48,8 @@ If you've been following this series from the beginning, please download and ver
 
 While Windows users will be ready to connect right after installing Feather, Linux users will likely need to grant permission for either the appimage or executable as follows:
 
-- - Open a terminal window and change directory to the folder containing the file
-- - Type `sudo chmod +x f`, then use *Tab* to complete the line
+- Open a terminal window and change directory to the folder containing the file
+- Type `sudo chmod +x f`, then use *Tab* to complete the line
 
 Now you can double click on the program as you normally would.
 
@@ -81,8 +81,8 @@ The default settings will tell Feather to use Tor for its functions. However if 
 
 As mentioned in the second video in this series, connecting to the Monero daemon over the clearnet will reveal potentially sensitive information to both:
 
-- - the node's host
-- - ***your Internet Service Provider (ISP)***
+- the node's host
+- ***your Internet Service Provider (ISP)***
 
 The tradeoff for privacy is speed.  Tor network traffic is slower and the initial synchronisation will take a great deal longer.  That said, the default setting is to use Tor in order to keep your Monero activities and IP address private.
 
