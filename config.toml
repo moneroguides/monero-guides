@@ -10,4 +10,4 @@ enableRobotsTXT = true
   name = "Monero Guides"
 
 [params]
-    custom_css = ["css/reset.css", "css/main.css", "css/simple-grid.css"]
+    custom_css = ["css/reset.css", "css/main.css"]
