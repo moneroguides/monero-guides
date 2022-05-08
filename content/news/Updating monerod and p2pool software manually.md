@@ -9,7 +9,8 @@ layout: "article"
 
 # Updating monerod and p2pool software manually
 #### UPDATE for windows users
-
+\
+\
 If you would like to run the latest version of both the Monero daemon and p2pool, please download and verify the executables directly. 
 
 The latest releases can be found through the following links.
