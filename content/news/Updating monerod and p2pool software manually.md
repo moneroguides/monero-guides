@@ -1,6 +1,6 @@
 ---
 title: "Updating monerod and p2pool software manually"
-date: 2021-11-17T10:21:07Z
+date: 2022-05-07T10:21:07Z
 description: "For those using weebdatahoarders installer, here's how you can update the p2pool and monerod software manually"
 image: /images/p2pool-folder.png
 type: "article"
