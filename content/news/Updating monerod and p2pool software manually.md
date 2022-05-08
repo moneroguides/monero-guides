@@ -17,7 +17,7 @@ The latest releases can be found through the following links.
 
 https://github.com/SChernykh/p2pool/releases/ & https://github.com/monero-project/monero/releases/.
 
-Please have a look at our video [Importing Public Keys & Verifying Hashes](https://www.yewtu.be/watch?v=AKB4w-L5ECA) for more deatiled instrcuitions for verifying files.
+Please have a look at our video [Importing Public Keys & Verifying Hashes](https://www.yewtu.be/watch?v=AKB4w-L5ECA) for more detailed instructions for verifying files.
 
 You will need to replace the current .exe files in the P2Pool folder with these new ones. 
 
