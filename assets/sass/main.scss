@@ -227,7 +227,12 @@ body {
         }
     }
 
-    /* ARTICLE LISTS */
+    /* ARTICLES */
+    article { 
+        border: 1px solid red !important;
+    }
+
+    /* ARTICLE LIST */
 
     .list-container {
         padding: 1rem;
@@ -249,3 +254,4 @@ body {
         padding: 2rem;
     }
 }
+
