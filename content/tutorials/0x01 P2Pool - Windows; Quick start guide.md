@@ -1,5 +1,5 @@
 ---
-title: "P2Pool - Windows; Quick start guide"
+title: "0x01 P2Pool - Windows; Quick start guide"
 date: 2021-11-17T10:21:07Z
 image: images/P2Pool - Windows; Quick start guide.png
 description: "Learn how to set up p2pool on Windows"
