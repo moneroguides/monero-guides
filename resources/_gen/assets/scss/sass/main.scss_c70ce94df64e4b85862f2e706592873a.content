@@ -8,6 +8,7 @@ body {
   /* MAIN */
   /* INDEX CARDS */
   /* ARTICLE LISTS */
+  /* ARTICLE */
   /* FOOTER */ }
   body a {
     color: #f96613;
@@ -152,6 +153,14 @@ body {
       padding: 1rem;
       background: #fff;
       border-radius: 5px; }
+  body .article-container {
+    padding: 0 2rem;
+    max-width: 800px;
+    margin: auto; }
+    body .article-container p {
+      font-weight: 400; }
+    body .article-container h3 {
+      font-weight: 500; }
   body footer {
     box-shadow: 0 0 10px #ebebeb;
     padding: 2rem; }

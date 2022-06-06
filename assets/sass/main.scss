@@ -242,6 +242,21 @@ body {
         }
     }
 
+    /* ARTICLE */
+
+    .article-container {
+        padding: 0 2rem;
+        max-width: 800px;
+        margin: auto;
+
+        p {
+            font-weight: 400;
+        }
+
+        h3 {
+            font-weight: 500;
+        }
+    }
     /* FOOTER */
 
     footer {
