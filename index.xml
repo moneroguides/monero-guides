@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monero Guides</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Monero Guides</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 10:21:07 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://example.org/news/test/</link>
+      <pubDate>Wed, 17 Nov 2021 10:21:07 +0000</pubDate>
+      
+      <guid>http://example.org/news/test/</guid>
+      <description>This is a title and this is under it Now there&amp;rsquo;s a bit of text hahahahah</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>http://example.org/tutorials/test2/</link>
+      <pubDate>Wed, 17 Nov 2021 10:21:07 +0000</pubDate>
+      
+      <guid>http://example.org/tutorials/test2/</guid>
+      <description>This is a tutorial and this is under it Incididunt proident et cillum incididunt labore aute eu. Non laboris officia proident amet minim officia reprehenderit adipisicing incididunt laboris cillum irure. Adipisicing enim mollit ad ad ex ullamco duis ullamco. Ea occaecat ipsum et eu irure officia sit tempor.
+Dolor officia mollit consequat eu anim. Consectetur esse duis esse consequat ullamco. Laborum est qui proident ad aute tempor quis et ullamco veniam.</description>
+    </item>
+    
+  </channel>
+</rss>
