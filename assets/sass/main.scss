@@ -227,12 +227,7 @@ body {
         }
     }
 
-    /* ARTICLES */
-    article { 
-        border: 1px solid red !important;
-    }
-
-    /* ARTICLE LIST */
+    /* ARTICLE LISTS */
 
     .list-container {
         padding: 1rem;
@@ -247,6 +242,17 @@ body {
         }
     }
 
+    /* ARTICLE */
+
+    .article-container {
+        padding: 0 2rem;
+        max-width: 800px;
+        margin: auto;
+
+        h3 {
+            font-weight: 500;
+        }
+    }
     /* FOOTER */
 
     footer {
@@ -254,4 +260,3 @@ body {
         padding: 2rem;
     }
 }
-

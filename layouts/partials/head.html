@@ -13,14 +13,13 @@
     rel="stylesheet"
   />
 
-  {{ $sassReset := resources.Get "sass/reset.scss" }}
-  {{ $styleReset := $sassReset | resources.ToCSS | resources.Fingerprint }}
-  <link rel="stylesheet" href="{{ $styleReset.Permalink }}" integrity="{{ $styleReset.Data.Integrity }}">
-  
   {{ $sassMain := resources.Get "sass/main.scss" }}
   {{ $styleMain := $sassMain | resources.ToCSS | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $styleMain.Permalink }}" integrity="{{ $styleMain.Data.Integrity }}">
   
+  {{ $sassReset := resources.Get "sass/reset.scss" }}
+  {{ $styleReset := $sassReset | resources.ToCSS | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $styleReset.Permalink }}" integrity="{{ $styleReset.Data.Integrity }}">
 
 
   {{ with .OutputFormats.Get "rss" -}} 
