@@ -13,8 +13,8 @@ layout: "article"
 
 UPDATES:
 
-    - [New side chain](https://moneroguides.org/news/p2pool-mini-side-chain/)
-    - [How to update software manually](https://moneroguides.org/news/updating-monerod-and-p2pool-software-manually/)
+* [New side chain](https://moneroguides.org/news/p2pool-mini-side-chain/)
+* [How to update software manually](https://moneroguides.org/news/updating-monerod-and-p2pool-software-manually/)
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
