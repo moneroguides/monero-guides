@@ -11,6 +11,11 @@ layout: "article"
 
 [Raw Signed Script](https://github.com/moneroguides/moneroguides.org/raw/main/content/tutorials/01x03%20Using%20Monero%20as%20Money.md)
 
+UPDATES:
+
+* [Seed phrase offsets](https://moneroguides.org/news/seed-offsets/)
+* [Mullvad now accepts Monero directly](https://mullvad.net/en/blog/2022/5/3/we-now-accept-monero/)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
