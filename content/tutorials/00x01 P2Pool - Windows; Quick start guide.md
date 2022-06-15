@@ -11,6 +11,11 @@ layout: "article"
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/P2Pool%20-%20Windows%3B%20Quick%20start%20guide.md)
 
+UPDATES:
+
+    - [New side chain](https://moneroguides.org/news/p2pool-mini-side-chain/)
+    - [How to update software manually](https://moneroguides.org/news/updating-monerod-and-p2pool-software-manually/)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
