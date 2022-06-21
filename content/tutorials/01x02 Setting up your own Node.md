@@ -11,6 +11,10 @@ layout: "article"
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x02-setting-up-your-own-node/main/script.md)
 
+UPDATES: 
+
+Follow up video - [Turning your node into a srvice](https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/)
+
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
