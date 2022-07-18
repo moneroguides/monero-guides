@@ -32,7 +32,7 @@ Before getting started there are a couple of prerequisites:  Firstly, as a Windo
 
 **Mac users beware, this tutorial doesn't contain specific advice for you. However, you should be able to follow the linux instructions without too much trouble.**
 
-In addition to this software you'll need 50GB or more disk space free. This is necessary for downloading either a full of pruned copy of the blockchain.
+In addition to this software you'll need 50GB or more disk space free. This is necessary for downloading either a full or pruned copy of the blockchain.
 
 This guide assumes no previous mining experience. If you already have xmrig and/or the latest version of the Monero daemon, you may wish to to look at the official [P2Pool repo](https://github.com/SChernykh/p2pool/) for more specific instructions. 
 
