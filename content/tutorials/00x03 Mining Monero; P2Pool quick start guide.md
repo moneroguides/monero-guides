@@ -1,5 +1,5 @@
 ---
-title: "0x03 Mining Monero; P2Pool quick start guide"
+title: "00x03 Mining Monero; P2Pool quick start guide"
 date: 2022-07-15T10:00:00Z
 image: images/00x03.png
 description: "Instructions for mining Monero with the official GUI"
