@@ -161,7 +161,11 @@ Once your node is synchronised (as you can see mine is now) it will be time for 
 
 ### TIME TO MINE 
 
-Alright, it's nearly time to get our mining underway. The software is now synchronised with the rest of the network and we've now only got a few more settings to change. 
+Alright, it's nearly time to get our mining underway. 
+
+Firstly, as a Windows user, you will now want to close the software and start it again with aministrative privilages. You can do with by right clicking on the start menu or dektop icon.
+
+The software is now synchronised with the rest of the network and we've now only got a few more settings to change.
 
 We're now to going to select the *settings* tab from the menu and then *node*. 
 
