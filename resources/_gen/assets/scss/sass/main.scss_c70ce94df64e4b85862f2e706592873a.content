@@ -3,18 +3,25 @@ body {
   font-family: "Nobile";
   /* COLOUR */
   /* BPS */
+  /* BPS */
+  /* GENERIC */
   /* HEADER */
   /* MOBILE MENU */
   /* MAIN */
   /* INDEX CARDS */
   /* ARTICLE LISTS */
   /* ARTICLE */
-  /* FOOTER */ }
+  /* FOOTER */
+  /* CONTACT CONTAINER */ }
   body a {
     color: #f96613;
     text-decoration: none; }
   body a:hover {
     text-decoration: underline; }
+  body .container {
+    max-width: 1024px;
+    margin: auto;
+    padding: 2rem; }
   body header {
     position: fixed;
     width: 100%;
@@ -58,37 +65,38 @@ body {
       border-bottom: 1px solid #d6d6d6; }
   body main {
     padding: 8rem 0;
-    min-height: 100vh;
+    min-height: 94vh;
     background: #f7f9f9; }
-  body main h1 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-    text-align: center; }
-  body main h3,
-  body h2 {
-    padding: 2rem 0 1rem; }
-  body main p {
-    padding-bottom: 1.2rem;
-    line-height: 1.5rem; }
-  body main code {
-    font-family: "Source Code Pro", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1rem;
-    color: #2da8a8;
-    background-color: #f0f0f0;
-    padding: 0.125rem 0.5rem;
-    margin: 0 0.125rem;
-    border-radius: 0.3125rem; }
-  body main pre {
-    background-color: #f0f0f0;
-    padding: 1rem;
-    border-radius: 0.3125rem;
-    overflow-x: auto; }
-  body main ul {
-    margin-bottom: 1.5rem; }
-  body main ul li {
-    list-style: disc;
-    margin-left: 2rem;
-    margin-bottom: 0.5rem; }
+    body main h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      text-align: center; }
+    body main h3,
+    body main h2 {
+      padding: 2rem 0 1rem; }
+    body main p {
+      padding-bottom: 1.2rem;
+      line-height: 1.5rem; }
+    body main code {
+      font-family: "Source Code Pro", Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 1rem;
+      color: #2da8a8;
+      background-color: #f0f0f0;
+      padding: 0.125rem 0.5rem;
+      margin: 0 auto;
+      border-radius: 0.3125rem;
+      max-width: 800px; }
+    body main pre {
+      background-color: #f0f0f0;
+      padding: 1rem;
+      border-radius: 0.3125rem;
+      overflow-x: auto; }
+    body main ul {
+      margin-bottom: 1.5rem; }
+    body main ul li {
+      list-style: disc;
+      margin-left: 2rem;
+      margin-bottom: 0.5rem; }
   body .card-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -157,10 +165,47 @@ body {
     padding: 0 2rem;
     max-width: 800px;
     margin: auto; }
-    body .article-container p {
-      font-weight: 400; }
     body .article-container h3 {
       font-weight: 500; }
   body footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     box-shadow: 0 0 10px #ebebeb;
     padding: 2rem; }
+    body footer .contact-link-container {
+      display: flex;
+      justify-content: center;
+      border-radius: 0.625rem; }
+      body footer .contact-link-container a {
+        width: 3rem; }
+        body footer .contact-link-container a:first-child {
+          margin-left: 0; }
+        body footer .contact-link-container a.matrix {
+          display: flex;
+          align-items: center;
+          width: 68px; }
+        body footer .contact-link-container a img {
+          max-height: 2rem; }
+  body .contact-container {
+    background: #fff; }
+    body .contact-container .contact-link-container {
+      display: flex;
+      justify-content: center;
+      padding: 1rem;
+      margin: auto;
+      border-radius: 0.625rem; }
+      body .contact-container .contact-link-container a {
+        width: 3rem;
+        margin-left: 1rem; }
+        body .contact-container .contact-link-container a:first-child {
+          margin-left: 0; }
+        body .contact-container .contact-link-container a.matrix {
+          display: flex;
+          align-items: center;
+          width: 81px; }
+        body .contact-container .contact-link-container a img {
+          max-height: 3rem; }
+    body .contact-container p {
+      text-align: center;
+      margin-top: 1rem; }

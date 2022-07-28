@@ -1,9 +1,43 @@
-{{ partial "head.html" . }}
-{{ partial "header.html" . }}
+{{ partial "head.html" . }} {{ partial "header.html" . }}
 <main>
-    <div class="container">
+    <section class="container">
         <h1>{{.Title}}</h1>
         {{.Content}}
-    </div>
+    </section>
+    <section class="container contact-container">
+        <h1>Where to Find Us</h1>
+        <div class="contact-link-container">
+            <a
+                href="https://www.youtube.com/channel/UCWeGibnI0h07pIPiX945DBg"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img src="/images/logos/youtube-square.svg" />
+            </a>
+            <a
+                href="https://github.com/moneroguides"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img src="/images/logos/github-square.svg" />
+            </a>
+            <a
+                href="https://www.reddit.com/user/moneroguides/"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                <img src="/images/logos/reddit-square.svg" />
+            </a>
+            <a
+                href="https://matrix.org/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="matrix"
+            >
+                <img src="/images/logos/matrix.png" />
+            </a>
+        </div>
+        <p>Matrix ID: <code>monero-guides</code></p>
+    </section>
 </main>
 {{ partial "footer.html" . }}

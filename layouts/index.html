@@ -3,18 +3,16 @@
   <div class="container">
     <h1>Latest</h1>
     <div class="card-container">
-      {{ range $section, $taxonomy := .Site.Sections }}
-        {{ range $taxonomy.Pages }}
-            <a href="{{ .Permalink }}" class="index-card-link">
-              <div class="index-card">
-                <img src="{{.Params.image | absURL}}"/>
-                <div class="card-body">
-                  <h3>{{ .Title }}</h3><p>{{.Description}}</p> 
-                </div>
-              </div>
-            </a>
-        {{ end }}
-      {{ end }}
+      {{ range $pages := (where .Site.Pages "Type" "article") }}
+      <a href="{{ .Permalink }}" class="index-card-link">
+        <div class="index-card">
+          <img src="{{.Params.image | absURL}}"/>
+          <div class="card-body">
+            <h3>{{ .Title }}</h3><p>{{.Description}}</p> 
+          </div>
+        </div>
+      </a>
+      {{end}}
     </div>
     </main>
   </div>
