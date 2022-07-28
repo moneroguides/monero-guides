@@ -14,27 +14,33 @@ We make guides for non technical users using Linux and Windows. You can check ou
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Key Fingerprint: FE6F A6F7 DECE 965F D40C  B0B0 6154 F0C9 DD7D E6EA
-Github: moneroguides
-Reddit: u/moneroguides
-Matrix: monero-guides:matrix.org
-XMR: 43RCZVhRE6tbggXsDik6TURNkg9KhVpfjJzFcdtB9CpbNKsrDfpYtuK85z1pzJ1nGKS1cwzm3DayyMcdPot1Tt2r3sy2qV1
+Socials:
+
+Github - moneroguides
+Reddit - u/moneroguides
+Matrix - monero-guides:matrix.org
+
+XMR Donation Address: 43RCZVhRE6tbggXsDik6TURNkg9KhVpfjJzFcdtB9CpbNKsrDfpYtuK85z1pzJ1nGKS1cwzm3DayyMcdPot1Tt2r3sy2qV1
+
+GPG Key Fingerprint: FE6F A6F7 DECE 965F D40C  B0B0 6154 F0C9 DD7D E6EA
+
+~moneroguides
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmHTYeobHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqWUkP/2P5UEPTwIh5woBJcH9M
-WwGEuVLbMQmWA1NtSraXR9nH8m4WowO+uuN3AVgoCTD9WP2J0ueN6spWNKhhW+Q1
-vsxdPfs4OV87OfyOf4eR90/RKkANlyk1FS9QnlKsI9sblrm9lhSWJHoHy2l1QhSd
-AYLnZmyNxVBEIsLWZxR1bqAE3IUTErYMogb4UgiF6agK7Fp7ZalcMXTgw1adlGQE
-wtiQtHaZtMBiuJ9Blq9BM8rRgk25PcH3+eYNkyMn3hgOOVsCTmeG//2nlFIkHKph
-a9QGivJbeMo3zJHe1gC1/1E3QOSow7AzFcgqwycJz7YH1WaLSruOEGvuPeqAIGX6
-JRpA3tMU2sNsdDzsLz268atsSuhCUyCtZZYNMuIsM0dmpozWn1oviE156UkFVNJg
-pvbFP0fCU77VP1EBZh3qbjINy8dGEpwt/93oJCNNRZeYg7rf2XnbmKuuOjxw53H6
-BN/PWY/vJwJ9xmhrM+MmFZ/rUMJJdGkmUJawWmTORzxbTI9JOKr4rpwdu9Edcg5y
-/tnqCwcySbtZ7Tll9VHpEgIBTGvuqxKEX8VaFm4ifcvbbFSPUsrud/N7o4c048Uf
-WglAU7c2/9DlceZFAsmxSjwA0kp0xvEA7PCgPMzEPbNPKchj+DbVmoKEn4P/Iaaj
-ap74pOIBLY9LDM7hJTiuBx/p
-=rn8d
+iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmLizKobHG1vbmVyby1n
+dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqcVMP/3Xe/fwWZPPekv2NI0Nc
+rXOJ5qS5Bsve6Po1V60qMk+vgF/7ZGtcNEQ2ByT4Qt83dO88Xonhqcze5RSz38fC
+xroHC+dmGG4QJt2mTPnKo7pBZtqqwmbo5akWKOpVQWIuIpOZgiNn0eDL2lQWi0dI
+/BuXxhbwEIaB7rbPZ2v7Us5/rwGXFXuDL/W4WlTkTndPNrOgNYy+QO8q072ioq14
+5hBqZU2WJoLKaeRJSYQf+3Y9Hh8d5/tefaPr/OaG50BmYiwPQf3/Z9Lp/nYznObj
+tJS0cB5SwW9NPIRzetxQtkNl66t2PFQDK2F75nna23w26Zhb1ujpZoL9qqJHQOHX
+EmB343P7EOUdr3rxTWQ2ZCae6xtzdcGuvUnIXeUx5sM1rJ2SEnbdXBMHs1x0MEVw
+mV0PfV4TnlJjSN9UquYYueF9hpMRHR9tyP6qB8B02m7HtiiWiHZz1shDIREVTVbx
+Bl2kMmj0MDzXztgqAJrodneh2ypwLXlX3vDqsahtaXfKY5E4UuG4zKJmMj2A0adl
+5rXeWFmuthFPjHlwB/lDk5ty9rg8IY5G7b769hagVvTCYAoTmzG5EASVNbwrMGXv
+VjoN9/SAG6D/dWsPQMdgCO8wgIZ5MbTqbkqwUrVM6dSxo18UP5T0LeNBjevjSR1F
+2Q6VVpIT5EBWtNrhVcsTWke+
+=i+Nw
 -----END PGP SIGNATURE-----
 ```
 
