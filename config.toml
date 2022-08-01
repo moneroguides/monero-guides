@@ -10,4 +10,8 @@ enableRobotsTXT = true
   name = "Monero Guides"
 
 [params]
-    custom_css = ["css/reset.css", "css/main.css"]
+    youtube = "https://www.youtube.com/channel/UCWeGibnI0h07pIPiX945DBg"
+    github = "https://www.github.com/moneroguides"
+    reddit = "https://www.reddit.com/user/moneroguides/"
+    matrix = "https://www.matrix.to/#/@monero-guides:matrix.org"
+
