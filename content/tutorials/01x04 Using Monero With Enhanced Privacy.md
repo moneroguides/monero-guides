@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://yewtub.be/embed/kLOAgdXTUWc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtu.be/embed/kLOAgdXTUWc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/01x04%20Using%20Monero%20With%20Enhanced%20Privacy.md)
 
