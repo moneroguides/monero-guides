@@ -7,12 +7,9 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/AKB4w-L5ECA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x01 Importing Public Keys and Verifying Hashes"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtub.be/embed/AKB4w-L5ECA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x01 Importing Public Keys and Verifying Hashes"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x01-importing-public-keys-and-verifying-hashes/main/script.md)
-
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
 
 # Getting to Grips with Monero - Importing Public Keys & Verifying Hashes
 
@@ -168,21 +165,3 @@ The instructions in this video will be relevant to a lot of our other videos so 
 Anyway, that's it for this installment, may your newfound GPG powers bring you peace and privacy!
 
 ~moneroguides
-
------BEGIN PGP SIGNATURE-----
-
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJZ9qEbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqrWkP/jPzg6mKww1qr8n0+LHZ
-hw1Ua9ZPA8SqZSKe4Rvo/MNlDkpqac+5lQX2neW2NURYjupsehQh9dYhqkQ/C6Ml
-kxZzzKV5eETMkjAOTcUsrAwOwn+eTMaeJSvmWq1eE+WwpLoCwlpgxUnz+uiiKfIx
-9pK4KzCWgSsjQ7moyHbcyNTZLs1HXKN+icPENTSirPzcgAjvV5ESAVbCnyD3lqa2
-I1qhLMkiV5HqFmjHIJeGYILNYn2heM2YGVJNsmIujbNro2c6LZxlZsynh8DtQ9zR
-glFFiY7Mgv3sc114pmv/fs742qkYev5DzllJcavfOihjbgj1q3BUPUln72Wq1X1P
-w38470/LtLT2JAFF52UIAh5W1m1VvnG4vJI1jByxO37hsxt9PcNQg5Eq+c5uRhC9
-lONxGJN3adrbrBv2wOCyRFCgtabnXT7ZvoNhEcBx2LWun+7sXUxwtlYn5X3ozrSL
-qRv5d9lecPj0+AOpytliuT+BqZV35nfOkbHyGPjfW28r/YZsqXyrXPeOIoHWjSop
-+AlOkPsI3rb3cWHx4vfQ94+ZvJTeMgcpFYzMI5bAK4HDxU5HnwSMVK+LYXQjFDmf
-z896moQXFvyP9+X3gHDFD1+NW3irFHn8zW/biQM3ar5jJeXK1u8ra8ffg5KAY56q
-SgHk2e7Git6KEV9Oljy+rS6Q
-=c40M
------END PGP SIGNATURE-----
