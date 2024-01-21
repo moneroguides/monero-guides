@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/vTNJWubZJks " style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtub.be/embed/vTNJWubZJks " style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 <br/>
 
 # Turning your Monero Node Into a 'Service'
