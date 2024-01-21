@@ -7,16 +7,13 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/XonyYxjjfcg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x02 Setting up your own Node"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtub.be/embed/XonyYxjjfcg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x02 Setting up your own Node"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x02-setting-up-your-own-node/main/script.md)
 
 UPDATES: 
 
 Follow up video - [Turning your node into a srvice](https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/)
-
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
 
 # Getting to Grips with Monero - Setting up your own Node 
 
@@ -303,21 +300,3 @@ That's it for this video, if you're interested in seeing how you can put your no
 Thanks for watching and bye for now.
 
 ~moneroguides
-
------BEGIN PGP SIGNATURE-----
-
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJdcKIbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqFOUP/Ah7BE5ihClG/J4/sPJs
-d7AeqLRmHduv3MEb8k+sK6EuTsCUYhE8cCLJpw3+Yj+AK9O1eZfYtQZN3KH1ToL7
-h28fojKJ3Ug0svNn5YU2cX4VcHP63TnLhagaHFR+ZCipC3XtajhP90E+djmU6zYP
-+8Oi7e+mzriNSgiLta7fFNVSM3LVa5UHUkLCd4cXlH6V4ilIv6ceIM+P8gUBavVa
-rMrKbXggazqRd6PK9Ve1XOX5S/F/Fj15pQde3Xovvlg0zYebVk8WhOgUAzphQcCX
-/14X4OHkuazaTfclLGVGP9SUoq6ur8uirwNCTppv4wH+Fmznsy94tlSdGi3amc2m
-evzJ9xhJ0zz0N7hv5djZPEA37bUm49xqSPv1OgkRjLFen1La44eyRrV4cfOLrveF
-YDyuxLhI0lZASvdDmGC5FPnQ0SASmDbWyo2O89rED3BPHLnIl69oSg6GgSTWUdX3
-91W3qQ1UNR8yB/44rLzVOlP0CsAWsyfJZi7wazJ3I+U/oAYfNJqCULwUspfEEfS1
-QI+GSd3uJmV2AnHqMMwk94Ce7D55R+XVxLN12gY5FZ7tpd2coJRkUQLoNSf6Ltd2
-8JItfBz5LTznhEeiHhxkPPqhAlN+hLj9nWFhKdq1xt9JZIGKyeG50WfUgan4Ru6l
-uYgIJ8uMrXV24Ah4HiqFtqxI
-=WPXu
------END PGP SIGNATURE-----
