@@ -11,9 +11,6 @@ layout: "article"
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/01x04%20Using%20Monero%20With%20Enhanced%20Privacy.md)
 
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
-
 # Getting to Grips with Monero - Using Monero With Enhanced Privacy
 
 ## Prerequisites:
@@ -177,21 +174,3 @@ We want to close by thanking you for staying tuned. We hope you now have the too
 So from us here at Monero Guides we wish you the best of luck on your adventures and look forward to seeing you again in future installments.
 
 ~moneroguides
-
------BEGIN PGP SIGNATURE-----
-
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJj/iMbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqZ78P/RWApeKl44H7/ji02NRy
-DWJIUAVWG0EgCkHdPySLyd4O7QvkXIsOoA2tWDOgt/1xzBauBNDPuF2CBMaN/fGs
-W5XkfRYqgK2FVb5uH1iT0flTng/jUpGNJCpFiixtWPtH0rmmMKPD7skeGaF/iiAn
-681ToD4mKs0cpywXeqItJBMQlasyBEG+IvYrt2qfw1QrNnhbqAOtaviqnkUf6PSu
-OnfOCblnokTu/CtacMW+vF0E8O4fRrb3oeBDOvDcqdGYtpy9npVZWbj0P+KXc06U
-qjrwTMs/JRGg2PdLGCme7/8biLnT09qPp828G07NwRENIvlnPNQnxjAPWFG2qCrE
-1OBlLWWEKV0lbtEce/0pLzu9vilBKNsBTR0akiKN5cBnZbx6TCsQ72TsxwFkB2EV
-X4CsxPaafunjmjdTets43mJhhbeuyAAdeq1prw59gZ6owm0u3kJtci1x7qv6l3fi
-WyMV1VAIUyHhfVYQWUc0knGMNHw2VyVUnyLLNpnLb0rbvFvcBhz553qdnXDPcDeb
-NRafu/OpFM0QS0jP2e868htOe253+BRdZk8cA9W074NrKdBrQ2nOkgCDqQ6RvHjM
-YNlF5u0p4QVDln/3E+/DI5ouQsvjCChhZpl+2OjW5u5L6bZIDDJdhnczxNZRxZiP
-KPsVXUndixsFa8/H8g6bCgs5
-=m0ZG
------END PGP SIGNATURE-----
