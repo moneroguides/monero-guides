@@ -11,7 +11,10 @@ layout: "article"
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/moneroguides.org/main/content/tutorials/01x04%20Using%20Monero%20With%20Enhanced%20Privacy.md)
 
-# Getting to Grips with Monero - Using Monero With Enhanced Privacy
+
+UPDATES:
+
+* # MULLVAD NO LONGER SUPPORTS PORT FORWARDING
 
 ## Prerequisites:
 
