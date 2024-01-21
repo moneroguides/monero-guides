@@ -7,14 +7,14 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://yewtub.be/embed/_KeapXrRfXw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtu.be/embed/_KeapXrRfXw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://github.com/moneroguides/moneroguides.org/raw/main/content/tutorials/01x03%20Using%20Monero%20as%20Money.md)
 
 UPDATES:
 
 * [Seed phrase offsets](https://moneroguides.org/news/seed-offsets/)
-* [Mullvad now accepts Monero directly](https://mullvad.net/en/blog/2022/5/3/we-now-accept-monero/)
+* [Mullvad now accepts Monero directly - although has removed port forwarding](https://mullvad.net/en/blog/2022/5/3/we-now-accept-monero/)
 
 # Getting to Grips with Monero - Using Monero as Money
 
