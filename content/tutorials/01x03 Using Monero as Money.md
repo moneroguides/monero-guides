@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://invidio.xamh.de/embed/_KeapXrRfXw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtub.be/embed/_KeapXrRfXw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x03 Using Monero as Money"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://github.com/moneroguides/moneroguides.org/raw/main/content/tutorials/01x03%20Using%20Monero%20as%20Money.md)
 
@@ -15,9 +15,6 @@ UPDATES:
 
 * [Seed phrase offsets](https://moneroguides.org/news/seed-offsets/)
 * [Mullvad now accepts Monero directly](https://mullvad.net/en/blog/2022/5/3/we-now-accept-monero/)
-
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
 
 # Getting to Grips with Monero - Using Monero as Money
 
@@ -265,21 +262,3 @@ Nevertheless, we hope you've learnt a lot and will now take the time to expand y
 Anyway, that's all for this video, thank you for watching and peace be with you privacy fans.
 
 ~moneroguides
-
------BEGIN PGP SIGNATURE-----
-
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmJjFVMbHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqWRwP/0kms43DtLESOtJ2D6fB
-Tg5MyPLHAM0HgTzKNoqcLjttE+dIyQtXtkXnnFVA7emCRTgvkZ3jaTA4vssbejTQ
-3WjcxyxHbH8DgLgjFlufANDTd9Do8jDLZqyy/QPG1omZj0ZupOe5hfGQGMMaoV/P
-q5xbLPIwYf2RqAWKBZ9u6D5h7upoHheSCenMFuIorFk6K51mqIcT1knPZ2gWrjkk
-u9PMYhso1W7JEAr0D0Us9epvXv3DReC+OZ369x+AaQuY5ljBVfAIx90fGRNGugXF
-VdBYsS+zIdSe3Pkmtv2H/DkLQOY7tvYO8UH9aLiaOO5heIq7WPEwbrIlWKXI/65c
-uhhiXYGiYsqgHaDmzVBmL7YUEoW0sWSoqShVtA1tWTwud+nnY2aDNdPSCuuvOdh5
-lvrBRbGgWLsr5Z2bzekY3RxfUcZ+TUb/blk60MTW7EUz/DzxKEsONGEx6EhcDIJL
-48InUdg8bltembs/TfdGW+vpvmGjn0ieZ5Fy5MzaRqrCovY3ljFyEPxPdtuUcrys
-u5/w7lKHrqhpq0WkfQuvlVzusUzYlVuq3brWJMReVpwiPW4frCNDTpU2b6STrQU1
-W1JDEo6tRtQWW/4lm0YVnG7TwNRCbR83L9Hkl5HLRDHb6UnPlnP00L7IZiOoHmrq
-n9DTiIDcFOpPknE9QQRem9c/
-=zFPT
------END PGP SIGNATURE-----
