@@ -7,7 +7,7 @@ type: "article"
 layout: "article"
 ---
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-<iframe src="https://yewtub.be/embed/AKB4w-L5ECA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x01 Importing Public Keys and Verifying Hashes"></iframe></div>{{< /rawhtml >}}
+<iframe src="https://yewtu.be/embed/AKB4w-L5ECA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x01 Importing Public Keys and Verifying Hashes"></iframe></div>{{< /rawhtml >}}
 
 [Raw Signed Script](https://raw.githubusercontent.com/moneroguides/1x01-importing-public-keys-and-verifying-hashes/main/script.md)
 
