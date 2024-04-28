@@ -4,7 +4,7 @@
 
 - Install Hugo (must be extended edition as this project uses scss)
 - Navigate to the project directory
-- Run `hudo serve -D`
+- Run `hugo serve -D`
 - This will start a server on `localhost:1313` by default
 
 ### Notes
