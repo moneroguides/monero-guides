@@ -145,7 +145,7 @@ Creating a config file is a pretty simple way to tailor the Monero daemon to sui
 
 In the monerod folder create a file called **bitmonero.conf**, this can be created, opened and edited with any text editor so we won't be covering OS specific details here.
 
-We're going to use [the example file from the Monero docs website](https://monerodocs.org/interacting/monero-config-file/) as a template to work from.
+We're going to use [the example file from the Monero docs website]([https://monerodocs.org/interacting/monero-config-file/](https://github.com/monerodocs/md/blob/master/docs/interacting/monero-config-file.md#monerodconf)) as a template to work from.
 Please click on the subheading **Examples** and copy the example to your clipboard using the provided button. Now paste it into your text editor.
 
 You'll notice quite a few **#** symbols in this text. These are comments. Every time the Monero daemon comes across one, it ignores it and skips to the next line. It's a really easy way for us to leave information and comments in the file without them interfering with its operation.
