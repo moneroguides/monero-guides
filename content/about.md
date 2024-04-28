@@ -17,7 +17,6 @@ Hash: SHA512
 Socials:
 
 Github - moneroguides
-Reddit - u/moneroguides
 Matrix - monero-guides:matrix.org
 
 XMR Donation Address: 43RCZVhRE6tbggXsDik6TURNkg9KhVpfjJzFcdtB9CpbNKsrDfpYtuK85z1pzJ1nGKS1cwzm3DayyMcdPot1Tt2r3sy2qV1
@@ -25,23 +24,24 @@ XMR Donation Address: 43RCZVhRE6tbggXsDik6TURNkg9KhVpfjJzFcdtB9CpbNKsrDfpYtuK85z
 GPG Key Fingerprint: FE6F A6F7 DECE 965F D40C  B0B0 6154 F0C9 DD7D E6EA
 
 ~moneroguides
+
 -----BEGIN PGP SIGNATURE-----
 
-iQJPBAEBCgA5FiEE/m+m997Oll/UDLCwYVTwyd195uoFAmLizKobHG1vbmVyby1n
-dWlkZXNAdHV0YW5vdGEuY29tAAoJEGFU8MndfebqcVMP/3Xe/fwWZPPekv2NI0Nc
-rXOJ5qS5Bsve6Po1V60qMk+vgF/7ZGtcNEQ2ByT4Qt83dO88Xonhqcze5RSz38fC
-xroHC+dmGG4QJt2mTPnKo7pBZtqqwmbo5akWKOpVQWIuIpOZgiNn0eDL2lQWi0dI
-/BuXxhbwEIaB7rbPZ2v7Us5/rwGXFXuDL/W4WlTkTndPNrOgNYy+QO8q072ioq14
-5hBqZU2WJoLKaeRJSYQf+3Y9Hh8d5/tefaPr/OaG50BmYiwPQf3/Z9Lp/nYznObj
-tJS0cB5SwW9NPIRzetxQtkNl66t2PFQDK2F75nna23w26Zhb1ujpZoL9qqJHQOHX
-EmB343P7EOUdr3rxTWQ2ZCae6xtzdcGuvUnIXeUx5sM1rJ2SEnbdXBMHs1x0MEVw
-mV0PfV4TnlJjSN9UquYYueF9hpMRHR9tyP6qB8B02m7HtiiWiHZz1shDIREVTVbx
-Bl2kMmj0MDzXztgqAJrodneh2ypwLXlX3vDqsahtaXfKY5E4UuG4zKJmMj2A0adl
-5rXeWFmuthFPjHlwB/lDk5ty9rg8IY5G7b769hagVvTCYAoTmzG5EASVNbwrMGXv
-VjoN9/SAG6D/dWsPQMdgCO8wgIZ5MbTqbkqwUrVM6dSxo18UP5T0LeNBjevjSR1F
-2Q6VVpIT5EBWtNrhVcsTWke+
-=i+Nw
+iQIzBAEBCgAdFiEE/m+m997Oll/UDLCwYVTwyd195uoFAmYufGcACgkQYVTwyd19
+5uoWLg//b50JckRviiBSNHwfihO7PpYJmDzLPwbkfARgL9HFfJgf59KLnJzj9tr0
+ABgrD6ErAYmRim9Q229AUs7FvITvouy5uPNPUFniQuJzjXvZfRhF7QfBlO7E9zqy
+Aib3AcwKBZrAwu8p5pzTsozFlK2Gq22Gdb8Hpb5MQziMiFr3QjsB3ThrA8zANhZJ
+FqWKC/2K5aotaQIN7wnYG+Pp+Oo/YP44JsEFyJENUcrvaCP5bYzkjeJrVqAenPO9
+wxqqD0BI0VHBvMHbPEpKLTMklyoklI1e/rYTFurk0eU4NJteksQY9GkcKjX+lMS0
+7K76/eqnlDII9RHw5ut4s7t0CWQRsTXDn/0LBiyK12c3XVLITKl7+yrZtOZW7ODN
+t5iN84I8isYH5VWo0zkCpT4v3IiQcXGorbIoKsvFK7NcXyzgTePvdf/nRVh8fFpa
+Tk5nbp+EFj78Hm3CzLYknVJHY6mEmoRF5ay4wMaReAO8Ud1SboYQItThvYm6Cf+Z
+xmILmmzroWejvr9k3dqIR445imkZE2gqHBgp21yrY/cIuFt8H7FJJshBCsPl0uNF
+bQEU6Moa4CiRASkhtQmUlMVQgpv42J4BYiRGZQNGHxqegIemmjhZATaVD7d1wgzz
+1CiDpTAk7xq+0hR0rPBeFaRYQf63eWBML49yW0RCxblflYto3Qg=
+=s5S0
 -----END PGP SIGNATURE-----
+
 ```
 
 #### [Public Key](https://raw.githubusercontent.com/moneroguides/moneroguides-assets/main/monero-guides.asc)
