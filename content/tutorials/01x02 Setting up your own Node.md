@@ -13,8 +13,9 @@ layout: "article"
 
 UPDATES: 
 
-Follow up video - [Turning your node into a srvice](https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/)
-MoneroDocs.org is no longer available as a website - Please check out [this link](https://github.com/monerodocs/md/blob/master/docs/)
+* Follow up video - [Turning your node into a srvice](https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/)
+* MoneroDocs.org is no longer available as a website - Please check out [this link](https://github.com/monerodocs/md/blob/master/docs/)
+* May 2024 - Pruned blockchain size ~70GB
 
 # Getting to Grips with Monero - Setting up your own Node 
 
