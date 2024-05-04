@@ -10,6 +10,9 @@ layout: "article"
 <iframe src="https://yewtu.be/embed/NbxbRu-2GWI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 <br/>
 
+UPDATES:
+* May 2024 - Pruned blockchain size ~70GB
+
 # Mining Monero; P2Pool quick start quide
 
 ## Prerequisites:
