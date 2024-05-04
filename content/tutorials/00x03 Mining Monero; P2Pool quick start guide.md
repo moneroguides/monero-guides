@@ -9,7 +9,8 @@ layout: "article"
 {{< rawhtml >}}<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 <iframe src="https://yewtu.be/embed/NbxbRu-2GWI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="01x04 Using Monero With Enhanced Privacy"></iframe></div>{{< /rawhtml >}}
 <br/>
-
+<hr/>
+  
 UPDATES:
 * May 2024 - Pruned blockchain size ~70GB
 
